@@ -36,15 +36,20 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .quartz/plugins
-          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          key: ${{ runner.os }}-plugins-${{ hashFiles('package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-plugins-
       - name: Install Dependencies
         run: npm ci
+      # Windows checkouts often omit +x on quartz/bootstrap-cli.mjs.
+      # `npx quartz` then fails with: sh: 1: quartz: Permission denied
+      - name: Ensure Quartz CLI is executable
+        run: chmod +x quartz/bootstrap-cli.mjs node_modules/.bin/* 2>/dev/null || true
       - name: Install Quartz plugins
-        run: npx quartz plugin install --from-config
+        run: npm run install-plugins
       - name: Build Quartz
-        run: npx quartz build
+        # Call Node directly so build does not depend on the bin execute bit
+        run: node ./quartz/bootstrap-cli.mjs build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
