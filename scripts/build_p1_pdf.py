@@ -126,6 +126,17 @@ def intro_text() -> str:
     return "\n".join(lines).strip()
 
 
+def synthesis_text() -> str:
+    """Conclusion from source-catalog.md — What these sources say together."""
+    raw = (VAULT / "source-catalog.md").read_text(encoding="utf-8")
+    m = re.search(
+        r"## What these sources say together\n\n(.+?)(?=\n## Resource Index|\n---\n|$)",
+        raw,
+        re.S,
+    )
+    return strip_md(m.group(1) if m else "")
+
+
 def collect_sources() -> list[tuple[str, str, list[dict[str, str]]]]:
     out = []
     for title, blurb, files in SECTIONS:
@@ -198,6 +209,12 @@ def build_txt(sections: list[tuple[str, str, list[dict[str, str]]]]) -> str:
             lines.append(note["annotation"])
             lines.append("")
 
+    lines.append("=" * 80)
+    lines.append("CONCLUSION — WHAT THESE SOURCES SAY TOGETHER")
+    lines.append("=" * 80)
+    lines.append("")
+    lines.append(synthesis_text())
+    lines.append("")
     lines.append("=" * 80)
     lines.append("END OF BACKUP")
     lines.append(f"Live collection: {PUBLIC_URL}")
@@ -349,6 +366,12 @@ def build_pdf(sections: list[tuple[str, str, list[dict[str, str]]]]) -> None:
             story.append(Paragraph(esc("Annotation"), small))
             story.append(Paragraph(esc(note["annotation"]), body))
             story.append(Spacer(1, 6))
+
+    story.append(PageBreak())
+    story.append(Paragraph(esc("Conclusion — What these sources say together"), h1))
+    for para in synthesis_text().split("\n\n"):
+        if para.strip():
+            story.append(Paragraph(esc(para.strip()), body))
 
     story.append(Spacer(1, 12))
     story.append(
