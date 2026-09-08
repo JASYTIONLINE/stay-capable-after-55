@@ -1,14 +1,10 @@
 # D. Nutrition
 
-**Path stop 4 of 5** — Fuel for capacity, not a second diet collection.
+Protein, intake structure, and timing support lifting, recovery, and staying capable after 55 — especially when cutting weight without throwing away muscle. This is fuel for capacity, not a second diet collection.
 
-Protein, intake structure, and timing support lifting, recovery, and staying capable after 55 — especially when cutting weight without throwing away muscle. Judge flashy diet media with [[A-Triad-and-judgment/index|Triad & judgment]] tools. Pair fuel with the training plan in [[C-Exercise/index|Exercise]] and recovery in [[E-Sleep-and-recovery/index|Sleep & recovery]].
+What should you eat so you keep muscle, fuel training, and do not wreck progress when you cut weight?
 
-**Reader question:** What should I eat so I keep muscle, fuel training, and don’t wreck progress when I cut weight?
-
-← [[C-Exercise/index|← Exercise]] · [[index|Home]] · Next: [[E-Sleep-and-recovery/index|Sleep & recovery →]]
-
-## Sources in this section (suggested order)
+## Sources
 
 1. [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021) — Nutrition for older athletes]] — protein and fuel for people who still train  
 2. [[D-Nutrition/S28-issn-protein-stand|ISSN — Protein and exercise position stand]] — macronutrient protein anchor  

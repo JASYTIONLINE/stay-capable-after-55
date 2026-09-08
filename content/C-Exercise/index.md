@@ -1,16 +1,10 @@
 # C. Exercise
 
-**Path stop 3 of 5** — How to train with purpose after midlife: dose, intensity, concurrent work, and lived practice.
+This section is the **activity** pillar of the triad — progressive strength and conditioning for people who still train, plus examples from coaches and athletes who kept going. You will see dose, intensity, concurrent training, and lived practice from people who did not quit after midlife.
 
-This section is the **activity** pillar of the triad — progressive strength and conditioning for people who still train, plus examples from coaches and athletes who kept going. Use [[A-Triad-and-judgment/index|judgment tools]] on hard claims. If you are returning from layoff, finish [[B-Returning-to-active-lifestyle/index|Returning]] before you chase peak programs here.
+How should you lift, how often, how hard, and how do you mix strength with conditioning — and what do long-practicing athletes actually do?
 
-**Reader question:** How should I lift, how often, how hard, and how do I mix strength with conditioning — and what do long-practicing athletes actually do?
-
-Next: [[D-Nutrition/index|D — Nutrition]] so fuel matches the work. Then [[E-Sleep-and-recovery/index|Sleep & recovery]] so volume does not outrun capacity.
-
-← [[B-Returning-to-active-lifestyle/index|← Returning]] · [[index|Home]] · Next: [[D-Nutrition/index|Nutrition →]]
-
-## Sources in this section (suggested order)
+## Sources
 
 ### Programming standards and evidence
 

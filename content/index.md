@@ -16,11 +16,11 @@ This collection is for adults 55 and older who train with purpose: martial artis
 
 The core concept behind this program is: the Performance Triad of sleep, activity, and nutrition inside Holistic Health and Fitness (H2F) in FM 7-22 — one readiness system, not three unrelated disciplines. Sources expand that idea with civilian research, professional guidance, and teachers whose lives match their practice.
 
-If you have no specific research goal, start by walking the numbered path below.  The path starts with broad concepts and  framework, them moves into more specific areas (train → fuel → recover). If you have a specific question,  jump to the section that matches your question. Each section lists annotated sources; open a title for the full write-up.
+The sections below move from framework to practice: judge sources, return safely, train, fuel, and recover. Each opens with annotated sources — click a title for the full write-up.
 
 ### Guided path
 
-1. **[[A-Triad-and-judgment/index|The triad and how to judge sources]]** — What is holistic readiness, and how do I evaluate fitness claims for people who still train?  
+1. **[[A-Introduction/index|Introduction]]** — What is holistic readiness, and how do I evaluate fitness claims for people who still train?  
 2. **[[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]** — I’m coming back after time off — how do I prepare without getting hurt?  
 3. **[[C-Exercise/index|Exercise]]** — How should I program strength and conditioning — and what do long-practicing athletes show?  
 4. **[[D-Nutrition/index|Nutrition]]** — What should I eat to keep muscle, lose fat,  and fuel the work?  

@@ -1,6 +1,6 @@
 # SXX — Short title
 
-**Category:** [[A-Triad-and-judgment/index|A]] / [[B-Returning-to-active-lifestyle/index|B]] / [[C-Exercise/index|C]] / [[D-Nutrition/index|D]] / [[E-Sleep-and-recovery/index|E]]  
+**Category:** [[A-Introduction/index|A]] / [[B-Returning-to-active-lifestyle/index|B]] / [[C-Exercise/index|C]] / [[D-Nutrition/index|D]] / [[E-Sleep-and-recovery/index|E]]  
 **Type:** Scholarly | Professional | Book | Media | Institutional | Curated | Other | Tool
 
 ## Citation
@@ -17,7 +17,7 @@ Author. (Year). Title. *Venue*. URL
 
 Examples:
 
-- `[[A-Triad-and-judgment/S16-craap-test|CRAAP test]]`
+- `[[A-Introduction/S16-craap-test|CRAAP test]]`
 - `[[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]`
 - `[[C-Exercise/index|Exercise]]`
 - `[[D-Nutrition/index|Nutrition]]`
