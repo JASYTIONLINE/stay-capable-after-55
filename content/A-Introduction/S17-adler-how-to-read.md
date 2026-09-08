@@ -5,7 +5,9 @@
 
 ## Citation
 
-Adler, M. J., & Van Doren, C. (1972). *How to read a book: The classic guide to intelligent reading* (Rev. ed.). Simon & Schuster. (See especially the chapters on analytical reading and agreeing or disagreeing with an author.)
+Adler, M. J., & Van Doren, C. (1972). *How to read a book: The classic guide to intelligent reading* (Rev. ed.). Simon & Schuster. https://www.simonandschuster.com/books/How-to-Read-a-Book/Mortimer-J-Adler/9781476790152
+
+(See especially the chapters on analytical reading and agreeing or disagreeing with an author.)
 
 ## Annotation
 
