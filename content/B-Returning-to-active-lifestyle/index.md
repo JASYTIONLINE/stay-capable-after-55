@@ -1,17 +1,19 @@
 # B. Returning to an active lifestyle
 
-This is the **comeback door**. If you used to train hard, took time off, and now your mind remembers a version of you your body cannot yet carry — start here.
+**Path stop 2 of 5** — After you understand the triad, prepare before you chase old intensity.
 
-Preparation is not weakness. Jumping straight into old mileage, old terrain, old fight pace, or old PT standards is how knees, backs, and hearts get hurt. **Get fit to train — do not try to get fit by throwing yourself into peak stress.**
+This is the **comeback door**. If you used to train hard, took time off, and now your mind remembers a version of you your body cannot yet carry — start here. Preparation is not weakness. Jumping into old mileage, fight pace, or PT standards is how knees, backs, and hearts get hurt.
 
-Watch the videos first if you need the gut punch. Then use the podcast, the ACSM guidance, and the Willich *NEJM* evidence that unaccustomed hard exertion raises heart-attack risk — especially if you have not been training regularly. Build a smarter ramp: warm-up, progressive conditioning, sleep, nutrition, and flexibility *before* vigorous work. When the base is real, move to [[C-Programming/index|Programming]]. Protect the ramp with [[D-Load-and-recovery/index|Load and recovery]] and [[E-Nutrition-support/index|Nutrition support]].
+**Reader question:** I’m coming back after time off — how do I prepare so I don’t get hurt?
 
-← [[index|Home]]
+When the base is real, move to [[C-Exercise/index|C — Exercise]]. Protect the ramp later with [[D-Nutrition/index|Nutrition]] and [[E-Sleep-and-recovery/index|Sleep & recovery]].
 
-## Sources in this section
+← [[A-Triad-and-judgment/index|← Triad & judgment]] · [[index|Home]] · Next: [[C-Exercise/index|Exercise →]]
 
-- [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Video — Cleared by a doctor does not mean ready to play]] — clearance ≠ capacity
-- [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Video — Too much too soon: return-to-run comeback]] — the classic comeback mistake
-- [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Podcast — Travis Mash rebuilding after time off (50+)]] — high-performer comeback after major layoff
-- [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM — Preparticipation screening & progressive preparation]] — start low, go slow; warm-up before vigorous work
-- [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993) — Exertion as a trigger of MI (*NEJM*)]] — infrequent hard efforts raise short-term heart risk
+## Sources in this section (suggested order)
+
+1. [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Video — Cleared ≠ ready to play]] — clearance is not capacity  
+2. [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Video — Too much too soon]] — the classic comeback mistake  
+3. [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993) — Exertion as MI trigger (*NEJM*)]] — infrequent hard efforts raise short-term heart risk  
+4. [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM — Preparticipation & progressive preparation]] — start low, go slow; warm-up before vigorous work  
+5. [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Podcast — Travis Mash rebuilding after time off (50+)]] — high-performer comeback after major layoff  

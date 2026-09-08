@@ -1,6 +1,6 @@
 # SXX — Short title
 
-**Category:** [[A-Evidence-filter/index|A]] / [[B-Returning-to-active-lifestyle/index|B]] / [[C-Programming/index|C]] / [[D-Load-and-recovery/index|D]] / [[E-Nutrition-support/index|E]] / [[F-Athlete-practice/index|F]]  
+**Category:** [[A-Triad-and-judgment/index|A]] / [[B-Returning-to-active-lifestyle/index|B]] / [[C-Exercise/index|C]] / [[D-Nutrition/index|D]] / [[E-Sleep-and-recovery/index|E]]  
 **Type:** Scholarly | Professional | Book | Media | Institutional | Curated | Other | Tool
 
 ## Citation
@@ -17,13 +17,15 @@ Author. (Year). Title. *Venue*. URL
 
 Examples:
 
-- `[[A-Evidence-filter/S16-craap-test|CRAAP test]]`
+- `[[A-Triad-and-judgment/S16-craap-test|CRAAP test]]`
 - `[[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]`
-- `[[C-Programming/index|Programming]]`
+- `[[C-Exercise/index|Exercise]]`
+- `[[D-Nutrition/index|Nutrition]]`
+- `[[E-Sleep-and-recovery/index|Sleep and recovery]]`
 
 Outbound URLs to the original article/video stay as normal `https://...` links in Citation.
 
 ## See also
 
 - Related source notes (wikilinks)
-- Parent category index · [[index|Home]]
+- Parent section index · [[index|Home]]
