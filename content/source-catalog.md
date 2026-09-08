@@ -1,9 +1,20 @@
-# Source catalog
+# Source Catalog
 
-**What this page is:** One place to find every live source and see, in short form, why it sits in the collection and how it relates to **[Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) / [Holistic Health and Fitness (H2F)](https://www.army.mil/article/239475/holistic_health_added_to_army_fitness_doctrine)**.  
-**What this page is not:** The graded annotations. Those live on each source note (100–200 words). This page is a bonus lookup map for browsing and for the curator.
+## What these sources say together
 
-**Live count:** 24 · Guided path: A–E · Doctrine spine: [[A-Introduction/S15-fm-7-22-h2f|FM 7-22 (S15)]]
+If you came here looking for one perfect program, you will be disappointed — and that is the point. Most people over fifty-five who still train do not fail because they lack tips. They fail because the internet hands them pieces: a lifting template with no sleep talk, a diet plan that ignores the mat, a “cleared to exercise” note that somehow becomes permission to fight like they did at thirty. This collection starts from a harder question. What does it mean to stay capable when your lifestyle still demands strength, and your body no longer forgives shortcuts?
+
+The spine of the answer is old Army doctrine that still earns its keep. [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) treats sleep, activity, and nutrition as one readiness system — not three hobbies. But a field manual will not rebuild you after a layoff, and it will not sit with you while you cut weight and try not to lose the muscle you need for work. So the rest of these sources pick up where doctrine stops and real midlife training begins.
+
+Listen to them as a conversation, not a stack of PDFs. The strength and conditioning voices largely agree: progressive resistance training still works after midlife, dose and intensity matter, and concurrent work (lifting plus conditioning or martial arts) has to be designed, not guessed. The nutrition sources agree that protein and timing serve the training — especially when energy is restricted — and one of them even ties overnight protein to the sleep window, which is triad thinking in food form. The sleep and recovery sources warn that under-sleep and “just add more volume” will erase hard sessions; masters athletes are often volume-sensitive whether ego likes it or not. On the way back into hard training, coaches, ACSM guidance, and a classic heart study keep repeating the same hard lesson: medical clearance is not the same as readiness, and jumping into old intensity after time off is how people get hurt — or worse.
+
+Where they push against each other is mostly about *voice*, not about truth. Lived practice books and videos speak from the mat and the comeback story. Commercial nutrition media can teach a plate method and still try to sell you a gadget. Scholarship samples “healthy older adults” who may not look like someone still fighting or drilling. That is why judgment tools sit at the front of the path: so you can tell a useful claim from a look-alike before you rearrange your life around it. McKendry’s work on master athletes is the quiet reminder underneath everything else — bodies that kept training are not the same population as people who stopped.
+
+The power of this collection come from the way they synthesis the     collective information contained in each source.  Taken independently each source leaves out certain insights that build a holistic picture of fitness after 55.  The power is in the argument they make together: prepare before you chase the old self, train with evidence, fuel for the work, sleep like recovery is part of the job, and read critically so marketing does not outrank readiness. You can't out exercise bad eating habits, you can't retain strength without fuel, and your body cannot repair itself without rest. Work through the material in order or use it as a reference to a answer certain questions, but use it as one integrated message to get a usable picture of staying active after fifty-five that no isolated tip sheet can give you.
+
+## Resource Index
+**Live count:** 24 · Guided path: A–E · Doctrine spine: [[A-Introduction/S15-fm-7-22-h2f|FM 7-22 (S15)]]  
+**Note:** Full graded annotations (100–200 words) live on each source page. This catalog is the A–Z map and the synthesis view.
 
 ---
 
