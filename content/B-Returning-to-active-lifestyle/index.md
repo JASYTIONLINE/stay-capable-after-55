@@ -1,8 +1,8 @@
 # B. Returning to an active lifestyle
 
-This is the **comeback door**. If you used to train hard, took time off, and now your mind remembers a version of you your body cannot yet carry, this section is for you. Preparation is not weakness. Jumping into old mileage, fight pace, or Physical Training (PT) standards is how knees, backs, and hearts get hurt. When we were young, we could take days, weeks, and even sometimes months off from training without experiencing significant atrophy, but as we age into our "Elder" years, the time limit of inactivity shrinks to days before we start to notice marked changes in our stamina and strength.  The amount of time it takes to recover from injury is increased greatly from days/weeks to months or even years. It is vital we learn how to know when it is safe to return to training and how to condition ourself to avoid injury, and even tragedy like cardiac events before returning to high intensity training. 
+This is the **comeback door**. If you used to train hard, took time off, and now your mind remembers a version of you that your body cannot yet carry, this section is for you. Preparation is not weakness. Jumping into old mileage, fight pace, or Physical Training (PT) standards is how knees, backs, and hearts get hurt. When we were young, we could take days, weeks, and even sometimes months off from training without experiencing significant atrophy, but as we age into our elder years, the time limit of inactivity shrinks to days before we start to notice marked changes in our stamina and strength. The time it takes to recover from injury increases greatly — from days or weeks to months or even years. It is vital that we learn how to know when it is safe to return to training and how to condition ourselves to avoid injury—and even tragedy, such as cardiac events—before returning to high-intensity training.
 
-The sources here answer one practical question: how do you prepare after time off  or injury so you do not get hurt?
+The sources here answer one practical question: how do you prepare after time off or injury so you do not get hurt?
 
 ## Sources
 

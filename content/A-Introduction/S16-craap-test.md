@@ -19,4 +19,4 @@ This short library handout walks through five questions for any source you meet:
 
 ---
 
-**Up:** [[A-Introduction/index|Introduction (Don't believe everything you read on the internet)]]
+**Up:** [[A-Introduction/index|Introduction (Don’t believe everything you read on the internet)]]

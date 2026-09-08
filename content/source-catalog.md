@@ -10,7 +10,7 @@ Listen to them as a conversation, not a stack of PDFs. The strength and conditio
 
 Where they push against each other is mostly about *voice*, not about truth. Lived practice books and videos speak from the mat and the comeback story. Commercial nutrition media can teach a plate method and still try to sell you a gadget. Scholarship samples “healthy older adults” who may not look like someone still fighting or drilling. That is why judgment tools sit at the front of the path: so you can tell a useful claim from a look-alike before you rearrange your life around it. McKendry’s work on master athletes is the quiet reminder underneath everything else — bodies that kept training are not the same population as people who stopped.
 
-The power of this collection come from the way they synthesis the     collective information contained in each source.  Taken independently each source leaves out certain insights that build a holistic picture of fitness after 55.  The power is in the argument they make together: prepare before you chase the old self, train with evidence, fuel for the work, sleep like recovery is part of the job, and read critically so marketing does not outrank readiness. You can't out exercise bad eating habits, you can't retain strength without fuel, and your body cannot repair itself without rest. Work through the material in order or use it as a reference to a answer certain questions, but use it as one integrated message to get a usable picture of staying active after fifty-five that no isolated tip sheet can give you.
+The power of this collection comes from the way the sources synthesize the collective information each one contains. Taken independently, each source leaves out insights that only appear when you build the full picture of fitness after 55. The power is in the argument they make together: prepare before you chase the old self, train with evidence, fuel for the work, sleep like recovery is part of the job, and read critically so marketing does not outrank readiness. You cannot out-exercise bad eating habits, you cannot retain strength without fuel, and your body cannot repair itself without rest. Work through the material in order or use it as a reference to answer certain questions, but use it as one integrated message to get a usable picture of staying active after fifty-five that no isolated tip sheet can give you.
 
 ## Resource Index
 **Live count:** 24 · Guided path: A–E · Doctrine spine: [[A-Introduction/S15-fm-7-22-h2f|FM 7-22 (S15)]]  
@@ -54,7 +54,7 @@ The power of this collection come from the way they synthesis the     collective
 
 ### R–T
 
-- **[Yang's Martial Arts Association (YMAA)](https://ymaa.com) · [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit Over 60]]** — Balance & joint-friendly conditioning · Exercise  
+- **[Yang’s Martial Arts Association (YMAA)](https://ymaa.com) · [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit Over 60]]** — Balance & joint-friendly conditioning · Exercise  
 - **[[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker]]** — Masters volume sensitivity · Sleep & recovery  
 - **[[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]]** — Ego volume after layoff · Returning  
 - **[[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon (2016)]]** — Pre-sleep protein · Nutrition  

@@ -5,7 +5,7 @@
 
 ## Citation
 
-Ross, D.-D. (2020). *Tai Chi Fit Over 60: Live Longer, Feel Younger* [Instructional series]. [Yang's Martial Arts Association (YMAA)](https://ymaa.com) Publication Center. https://ymaa.com/publishing/dvd/tai-chi-fit-over-60-live-longer-feel-younger
+Ross, D.-D. (2020). *Tai Chi Fit Over 60: Live Longer, Feel Younger* [Instructional series]. [Yang’s Martial Arts Association (YMAA)](https://ymaa.com) Publication Center. https://ymaa.com/publishing/dvd/tai-chi-fit-over-60-live-longer-feel-younger
 
 ## Annotation
 

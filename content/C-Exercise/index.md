@@ -17,7 +17,7 @@ How should you lift, how often, how hard, and how do you mix strength with condi
 ### Lived practice
 
 6. [[C-Exercise/S09-christensen-solo-training-50|Christensen — *Solo Training 3: 50 and Older*]] — martial arts S&C from someone who kept training  
-7. [Yang's Martial Arts Association (YMAA)](https://ymaa.com) — [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / *Tai Chi Fit Over 60*]] — balance and joint-friendly conditioning with athletic intent
+7. [Yang’s Martial Arts Association (YMAA)](https://ymaa.com) — [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / *Tai Chi Fit Over 60*]] — balance and joint-friendly conditioning with athletic intent
 
 ---
 
