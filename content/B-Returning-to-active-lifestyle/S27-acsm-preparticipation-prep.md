@@ -17,3 +17,7 @@ This ACSM guidance explains how to screen for medical clearance needs and — ju
 
 - [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready]] · [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Mash comeback podcast]] · [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]]
 - [[C-Exercise/index|Exercise]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[D-Nutrition/index|Nutrition]] · [[index|Home]]
+
+---
+
+**Up:** [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]

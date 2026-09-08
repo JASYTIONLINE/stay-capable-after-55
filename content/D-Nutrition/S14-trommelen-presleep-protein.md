@@ -17,3 +17,7 @@ This review shows pre-sleep protein is digested overnight, raises overnight musc
 
 - [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]]
 - [[D-Nutrition/S28-issn-protein-stand|ISSN]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[index|Home]]
+
+---
+
+**Up:** [[D-Nutrition/index|Nutrition]]

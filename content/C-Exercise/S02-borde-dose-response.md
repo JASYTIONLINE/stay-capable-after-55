@@ -17,3 +17,7 @@ This meta-analysis examines how resistance-training frequency, intensity, volume
 
 - [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S03-markov-concurrent|Markov et al. (2023)]]
 - [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[A-Introduction/index|Introduction]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

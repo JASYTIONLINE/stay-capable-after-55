@@ -17,3 +17,7 @@ This practitioner article argues that many masters lifters are volume-sensitive:
 
 - [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]] · [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]]
 - [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[index|Home]]
+
+---
+
+**Up:** [[E-Sleep-and-recovery/index|Sleep and recovery]]

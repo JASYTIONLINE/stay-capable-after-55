@@ -17,3 +17,7 @@ This randomized trial examines high protein intake with or without resistance tr
 
 - [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021)]] · [[C-Exercise/S04-fragala-nsca-older-adults|Fragala]]
 - [[D-Nutrition/S29-body-signals-elevate-plate|Elevate Your Plate]] · [[D-Nutrition/index|Nutrition]] · [[index|Home]]
+
+---
+
+**Up:** [[D-Nutrition/index|Nutrition]]

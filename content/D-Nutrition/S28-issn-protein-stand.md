@@ -17,3 +17,7 @@ This ISSN position stand reviews protein intake for healthy exercising individua
 
 - [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]] · [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen]]
 - [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen]] · [[D-Nutrition/S29-body-signals-elevate-plate|Elevate Your Plate]] · [[index|Home]]
+
+---
+
+**Up:** [[D-Nutrition/index|Nutrition]]

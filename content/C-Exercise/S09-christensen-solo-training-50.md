@@ -15,3 +15,7 @@ This training book for martial artists 50 and older covers solo strength and con
 
 - [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit Over 60]] · [[C-Exercise/S04-fragala-nsca-older-adults|Fragala]]
 - [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]] · [[A-Introduction/S01-mckendry-master-athletes|McKendry]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

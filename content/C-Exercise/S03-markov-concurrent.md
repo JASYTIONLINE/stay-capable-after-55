@@ -17,3 +17,7 @@ This review covers concurrent strength and endurance training in adults roughly 
 
 - [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]]
 - [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[C-Exercise/index|Exercise]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

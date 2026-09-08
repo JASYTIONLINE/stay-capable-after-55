@@ -18,3 +18,7 @@ This source sits in Introduction **not because of its findings** on master-athle
 - [[A-Introduction/S16-craap-test|CRAAP Test]] — screen relevance and credibility first
 - [[A-Introduction/S17-adler-how-to-read|Adler & Van Doren — How to Read a Book]] — judge the argument after you understand it
 - [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/index|Exercise]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[A-Introduction/index|Introduction (Don't believe everything you read on the internet)]]

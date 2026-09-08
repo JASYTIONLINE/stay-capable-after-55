@@ -16,3 +16,7 @@ This short library handout walks through five questions for any source you meet:
 - [[A-Introduction/S17-adler-how-to-read|Adler & Van Doren — How to Read a Book]] — deeper judgment after CRAAP
 - [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018)]] — example of still-training research that passes a relevance check
 - [[A-Introduction/index|Introduction]] · [[index|Home]]
+
+---
+
+**Up:** [[A-Introduction/index|Introduction (Don't believe everything you read on the internet)]]

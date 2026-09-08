@@ -10,4 +10,10 @@ What should you eat so you keep muscle, fuel training, and do not wreck progress
 2. [[D-Nutrition/S28-issn-protein-stand|ISSN — Protein and exercise position stand]] — macronutrient protein anchor  
 3. [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017) — High protein ± RT during weight loss]] — keep lean mass while cutting  
 4. [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon (2016) — Pre-sleep protein]] — overnight fuel for training adaptations  
-5. [[D-Nutrition/S29-body-signals-elevate-plate|Body Signals — Elevate Your Plate (RD Alyssa Wilson)]] — practical plate method for training goals  
+5. [[D-Nutrition/S29-body-signals-elevate-plate|Body Signals — Elevate Your Plate (RD Alyssa Wilson)]] — practical plate method for training goals
+
+---
+
+**Up:** [[index|Stay Capable After 55]]
+
+**Down:** [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021)]] · [[D-Nutrition/S28-issn-protein-stand|ISSN protein stand]] · [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017)]] · [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon]] · [[D-Nutrition/S29-body-signals-elevate-plate|Elevate Your Plate]]

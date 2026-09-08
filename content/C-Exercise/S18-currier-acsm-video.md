@@ -17,3 +17,7 @@ This long-form interview features Dr. Brad Currier, PhD, a lead author on the AC
 
 - [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S19-kennerley-velocity-phd|Kennerley PhD]]
 - [[A-Introduction/S16-craap-test|CRAAP Test]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

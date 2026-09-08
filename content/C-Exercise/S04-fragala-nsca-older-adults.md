@@ -18,3 +18,7 @@ This NSCA position statement covers resistance training for older adults, includ
 - [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]] · [[C-Exercise/S03-markov-concurrent|Markov et al. (2023)]]
 - [[C-Exercise/S18-currier-acsm-video|Currier ACSM video]] · [[C-Exercise/S19-kennerley-velocity-phd|Kennerley PhD]]
 - [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018)]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

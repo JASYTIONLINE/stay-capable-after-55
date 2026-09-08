@@ -17,4 +17,10 @@ How should you lift, how often, how hard, and how do you mix strength with condi
 ### Lived practice
 
 6. [[C-Exercise/S09-christensen-solo-training-50|Christensen — *Solo Training 3: 50 and Older*]] — martial arts S&C from someone who kept training  
-7. [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / YMAA — *Tai Chi Fit Over 60*]] — balance and joint-friendly conditioning with athletic intent  
+7. [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / YMAA — *Tai Chi Fit Over 60*]] — balance and joint-friendly conditioning with athletic intent
+
+---
+
+**Up:** [[index|Stay Capable After 55]]
+
+**Down:** [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]] · [[C-Exercise/S03-markov-concurrent|Markov et al. (2023)]] · [[C-Exercise/S18-currier-acsm-video|Currier ACSM video]] · [[C-Exercise/S19-kennerley-velocity-phd|Kennerley PhD]] · [[C-Exercise/S09-christensen-solo-training-50|Christensen]] · [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit]]

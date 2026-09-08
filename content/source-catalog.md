@@ -150,3 +150,7 @@ Sleep toolbox, volume honesty, recovery checklist.
 ## Maintainer note
 
 When a source is added or removed, update this page and the matching section index. Keep the guided path A→E intact for future course/video expansion — but keep public language as a curated collection for Project 01.
+
+---
+
+**Up:** [[index|Stay Capable After 55]]

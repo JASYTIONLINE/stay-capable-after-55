@@ -15,3 +15,7 @@ This instructional series by a competitive tai chi master targets adults 60 and 
 
 - [[C-Exercise/S09-christensen-solo-training-50|Christensen]] · [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|ACSM recovery]]
 - [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

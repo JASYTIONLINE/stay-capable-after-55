@@ -15,3 +15,7 @@ This ACSM guidance covers recovery for active older adults through nutrition, hy
 
 - [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[A-Introduction/S15-fm-7-22-h2f|FM 7-22]]
 - [[C-Exercise/index|Exercise]] · [[D-Nutrition/index|Nutrition]] · [[index|Home]]
+
+---
+
+**Up:** [[E-Sleep-and-recovery/index|Sleep and recovery]]

@@ -15,3 +15,7 @@ This PhD thesis examines maximal-intentional velocity (power-focused) resistance
 
 - [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S18-currier-acsm-video|Currier ACSM video]]
 - [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]] · [[C-Exercise/index|Exercise]] · [[index|Home]]
+
+---
+
+**Up:** [[C-Exercise/index|Exercise]]

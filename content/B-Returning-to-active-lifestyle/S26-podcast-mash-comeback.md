@@ -16,3 +16,7 @@ This *Barbell Shrugged* episode follows Travis Mash — a high-level strength at
 
 - [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready]] · [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]]
 - [[C-Exercise/S04-fragala-nsca-older-adults|Fragala]] · [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh]] · [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]] · [[index|Home]]
+
+---
+
+**Up:** [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]

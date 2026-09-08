@@ -28,4 +28,7 @@ Outbound URLs to the original article/video stay as normal `https://...` links i
 ## See also
 
 - Related source notes (wikilinks)
-- Parent section index · [[index|Home]]
+
+---
+
+**Up:** [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]  *(use the matching section index + full section name)*

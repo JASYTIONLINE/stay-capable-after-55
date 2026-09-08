@@ -15,3 +15,7 @@ This video drives one hard lesson: a clinician clearing you to move is not the s
 
 - [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]] · [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM preparation document]]
 - [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]] · [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]] · [[index|Home]]
+
+---
+
+**Up:** [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]

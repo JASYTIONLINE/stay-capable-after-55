@@ -11,4 +11,10 @@ What is holistic readiness, and how do you tell a useful source from a look-alik
 1. [[A-Introduction/S15-fm-7-22-h2f|FM 7-22 — Holistic Health and Fitness]] — doctrine spine: sleep, activity, nutrition as readiness  
 2. [[A-Introduction/S16-craap-test|CRAAP Test (Meriam Library)]] — quick first-pass credibility screen  
 3. [[A-Introduction/S17-adler-how-to-read|Adler & Van Doren — How to Read a Book]] — deeper judgment after you understand the argument  
-4. [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018) — Master athletes]] — worked example of still-training research  
+4. [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018) — Master athletes]] — worked example of still-training research
+
+---
+
+**Up:** [[index|Stay Capable After 55]]
+
+**Down:** [[A-Introduction/S15-fm-7-22-h2f|FM 7-22]] · [[A-Introduction/S16-craap-test|CRAAP Test]] · [[A-Introduction/S17-adler-how-to-read|Adler & Van Doren]] · [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018)]]

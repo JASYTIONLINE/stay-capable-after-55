@@ -17,3 +17,7 @@ This peer-reviewed nutrition review is written for older athletes and covers pro
 
 - [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017)]] · [[D-Nutrition/S28-issn-protein-stand|ISSN protein stand]]
 - [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon]] · [[C-Exercise/S04-fragala-nsca-older-adults|Fragala]] · [[index|Home]]
+
+---
+
+**Up:** [[D-Nutrition/index|Nutrition]]

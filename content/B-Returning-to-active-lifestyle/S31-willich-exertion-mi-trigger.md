@@ -17,3 +17,7 @@ This *NEJM* study asks whether a bout of hard physical work can help trigger a h
 
 - [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready]] · [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]] · [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM prep]]
 - [[C-Exercise/index|Exercise]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[index|Home]]
+
+---
+
+**Up:** [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]]

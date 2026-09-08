@@ -28,3 +28,7 @@ The sections below move from framework to practice: judge sources, return safely
 6.  **[[source-catalog|Source catalog]]** — A–Z list of every source, with short notes and how each fits FM 7-22.
 
 Enjoy the material, but read critically, and stay fit.
+
+---
+
+**Down:** [[A-Introduction/index|Introduction]] · [[B-Returning-to-active-lifestyle/index|Returning to an active lifestyle]] · [[C-Exercise/index|Exercise]] · [[D-Nutrition/index|Nutrition]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[source-catalog|Source catalog]]

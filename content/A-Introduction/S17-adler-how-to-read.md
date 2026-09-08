@@ -16,3 +16,7 @@ This classic guide teaches how to understand an author’s argument before you a
 - [[A-Introduction/S16-craap-test|CRAAP Test]] — first-pass Currency, Relevance, Authority, Accuracy, Purpose
 - [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018)]] — apply Adler after you understand the masters-athlete evidence
 - [[A-Introduction/index|Introduction]] · [[index|Home]]
+
+---
+
+**Up:** [[A-Introduction/index|Introduction (Don't believe everything you read on the internet)]]
