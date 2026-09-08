@@ -143,7 +143,13 @@ Overlaps Desbrow (10), GSSI (26/27), ISSN (25). Likely redundant if those Keeps 
 
 ---
 
-## B. Programming
+## B. Returning to an active lifestyle
+
+See live vault notes under B-Returning-to-active-lifestyle/ (S23–S27, S31). This workbook section predates the shelf; use the vault for Keep/Cut detail.
+
+---
+
+## C. Programming
 
 ### 04 — Borde, Hortobágyi, & Granacher, 2015 (RT dose–response meta-analysis)
 
@@ -346,7 +352,7 @@ Touches Fragala/ACSM power recommendations but goes deeper. Low redundancy if yo
 
 ---
 
-## C. Load and recovery
+## D. Load and recovery
 
 ### 11 — Sullivan & Baker: Volume and the Masters Lifter
 
@@ -548,7 +554,7 @@ Directly overlaps Walsh (12). Series cannot outrank consensus for truth claims.
 
 ---
 
-## D. Nutrition support
+## E. Nutrition support
 
 ### 18 — Desbrow et al., 2021 (nutrition for older athletes)
 
@@ -864,7 +870,7 @@ With Gundry (27) on gut themes; both weaker than Desbrow for core D.
 
 ---
 
-## E. Athlete practice
+## F. Athlete practice
 
 ### 29 — Christensen, Solo Training 3: 50 and Older (2015)
 

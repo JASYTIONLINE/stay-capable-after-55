@@ -1,0 +1,19 @@
+# S27 — ACSM preparticipation & progressive prep
+
+**Category:** [[B-Returning-to-active-lifestyle/index|B — Returning to an active lifestyle]]  
+**Type:** Professional / scholarly practice guidance
+
+## Citation
+
+Riebe, D., Franklin, B. A., Thompson, P. D., Garber, C. E., Whitfield, G. P., Magal, M., & Pescatello, L. S. (2015/2016). New preparticipation health screening recommendations: What exercise professionals need to know. *ACSM’s Health & Fitness Journal, 20*(3), 22–27. https://journals.lww.com/acsm-healthfitness/fulltext/2016/05000/new_preparticipation_health_screening.9.aspx
+
+Related tool: American College of Sports Medicine. (n.d.). *Exercise preparticipation health screening recommendations* [Infographic/PDF]. https://www.acsm.org/docs/default-source/files-for-resource-library/acsmprescreening101.pdf
+
+## Annotation
+
+This ACSM guidance explains how to screen for medical clearance needs and — just as important — how to **prepare** people for exercise so unaccustomed vigorous work does not become the injury or cardiac trigger. It covers current activity level, warning signs, desired intensity, and a **progressive transitional phase (about two to three months)** where duration and intensity rise gradually, with appropriate **warm-up and cool-down**, counseling to **start low and go slow**. It is valuable as the shelf’s written spine: preparation includes conditioning progression, session warm-up, and respect for vigorous intensity as something you earn. Flexibility/mobility work belongs in the session design around that warm-up and cool-down; sleep and nutrition are the readiness behaviors that make the ramp stick — deepen those with [[D-Load-and-recovery/S13-walsh-athlete-sleep|Walsh]], [[D-Load-and-recovery/S15-fm-7-22-h2f|FM 7-22]], [[D-Load-and-recovery/S21-acsm-recovery-older-adults|ACSM recovery]], and [[E-Nutrition-support/index|Nutrition support]]. Athletes returning after layoff will benefit most. It is professional guidance, not a dramatic video; use the [[B-Returning-to-active-lifestyle/index|three motivator videos]] for urgency, [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al.]] for why unaccustomed hard effort is also a cardiac concern, then follow this document for the method.
+
+## See also
+
+- [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready]] · [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Mash comeback podcast]] · [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]]
+- [[C-Programming/index|Programming]] · [[D-Load-and-recovery/index|Load and recovery]] · [[E-Nutrition-support/index|Nutrition support]] · [[index|Home]]
