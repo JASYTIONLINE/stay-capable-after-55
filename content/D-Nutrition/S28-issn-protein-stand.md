@@ -1,4 +1,4 @@
-# S28 — ISSN protein and exercise position stand
+# S28 — [International Society of Sports Nutrition (ISSN)](https://www.issn.org) protein and exercise position stand
 
 **Category:** [[D-Nutrition/index|D — Nutrition]]
 **Type:** Professional / scholarly position stand
@@ -11,7 +11,7 @@ Jäger, R., Kerksick, C. M., Campbell, B. I., Cribb, P. J., Wells, S. D., Skwiat
 
 ## Annotation
 
-This ISSN position stand reviews protein intake for healthy exercising individuals, including daily ranges, per-meal dosing, leucine considerations, and timing around training. It covers the macronutrient anchor for muscle building and training support. It is valuable for grounding “macros” talk that otherwise floats in podcast land — a credentialed standard you can use after [[A-Introduction/S16-craap-test|CRAAP]] kills weak claims. Athletes after 55 and coaches setting protein targets will benefit most when they also apply older-athlete adjustments from [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]]. It is not written only for masters athletes. Pair overnight timing with [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen]] and weight-loss contexts with [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen]]. Keep commercial CGM/meal apps from outrunning this stand.
+This ISSN position stand reviews protein intake for healthy exercising individuals, including daily ranges, per-meal dosing, leucine considerations, and timing around training. It covers the macronutrient anchor for muscle building and training support. It is valuable for grounding “macros” talk that otherwise floats in podcast land — a credentialed standard you can use after [Currency, Relevance, Authority, Accuracy, Purpose (CRAAP)](https://library.csuchico.edu/sites/default/files/craap-test.pdf) · [[A-Introduction/S16-craap-test|note]] kills weak claims. Athletes after 55 and coaches setting protein targets will benefit most when they also apply older-athlete adjustments from [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]]. It is not written only for masters athletes. Pair overnight timing with [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen]] and weight-loss contexts with [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen]]. Keep commercial continuous glucose monitor (CGM)/meal apps from outrunning this stand.
 
 ## See also
 

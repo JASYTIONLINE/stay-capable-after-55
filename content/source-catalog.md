@@ -1,6 +1,6 @@
 # Source catalog
 
-**What this page is:** One place to find every live source and see, in short form, why it sits in the collection and how it relates to **FM 7-22 / H2F**.  
+**What this page is:** One place to find every live source and see, in short form, why it sits in the collection and how it relates to **[Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) / [Holistic Health and Fitness (H2F)](https://www.army.mil/article/239475/holistic_health_added_to_army_fitness_doctrine)**.  
 **What this page is not:** The graded annotations. Those live on each source note (100–200 words). This page is a bonus lookup map for browsing and for the curator.
 
 **Live count:** 24 · Guided path: A–E · Doctrine spine: [[A-Introduction/S15-fm-7-22-h2f|FM 7-22 (S15)]]
@@ -12,38 +12,38 @@
 ### A
 
 - **[[A-Introduction/S17-adler-how-to-read|Adler & Van Doren]]** — *How to Read a Book* · Introduction  
-- **[[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM / Riebe et al.]]** — Preparticipation & progressive prep · Returning  
+- **[American College of Sports Medicine (ACSM)](https://www.acsm.org) · [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|Riebe et al.]]** — Preparticipation & progressive prep · Returning  
 - **[[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|ACSM recovery]]** — Recovery for active older adults · Sleep & recovery  
 
 ### B
 
 - **[[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Barbell Shrugged / Travis Mash]]** — Comeback after major layoff · Returning  
-- **[[A-Introduction/S16-craap-test|Blakeslee / Meriam Library]]** — CRAAP test · Introduction  
-- **[[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]]** — RT dose–response · Exercise  
+- **[[A-Introduction/S16-craap-test|Blakeslee / Meriam Library]]** — [Currency, Relevance, Authority, Accuracy, Purpose (CRAAP)](https://library.csuchico.edu/sites/default/files/craap-test.pdf) test · Introduction  
+- **[[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]]** — resistance training (RT) dose–response · Exercise  
 - **[[D-Nutrition/S29-body-signals-elevate-plate|Body Signals — Elevate Your Plate]]** — Plate method · Nutrition  
 
 ### C
 
 - **[[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready to play]]** — Clearance ≠ capacity · Returning  
-- **[[C-Exercise/S09-christensen-solo-training-50|Christensen, *Solo Training 3*]]** — Martial arts S&C after 50 · Exercise  
+- **[[C-Exercise/S09-christensen-solo-training-50|Christensen, *Solo Training 3*]]** — Martial arts strength and conditioning (S&C) after 50 · Exercise  
 - **[[C-Exercise/S18-currier-acsm-video|Currier (ACSM RT video)]]** — ACSM RT guidance · Exercise  
 
 ### D–F
 
 - **[[A-Introduction/S15-fm-7-22-h2f|Department of the Army, FM 7-22]]** — H2F / Performance Triad · Introduction  
 - **[[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021)]]** — Nutrition for older athletes · Nutrition  
-- **[[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]]** — NSCA RT for older adults · Exercise  
+- **[[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]]** — [National Strength and Conditioning Association (NSCA)](https://www.nsca.com) RT for older adults · Exercise  
 
 ### I–M
 
-- **[[D-Nutrition/S28-issn-protein-stand|ISSN / Jäger et al. (2017)]]** — Protein and exercise · Nutrition  
-- **[[C-Exercise/S19-kennerley-velocity-phd|Kennerley PhD]]** — Velocity / power RT · Exercise  
+- **[International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[D-Nutrition/S28-issn-protein-stand|Jäger et al. (2017)]]** — Protein and exercise · Nutrition  
+- **[[C-Exercise/S19-kennerley-velocity-phd|Kennerley (2023)]]** — Velocity / power RT · Exercise  
 - **[[C-Exercise/S03-markov-concurrent|Markov et al. (2023)]]** — Concurrent training · Exercise  
 - **[[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018)]]** — Master athletes · Introduction  
 
 ### R–T
 
-- **[[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / YMAA, *Tai Chi Fit Over 60*]]** — Balance & joint-friendly conditioning · Exercise  
+- **[Yang's Martial Arts Association (YMAA)](https://ymaa.com) · [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit Over 60]]** — Balance & joint-friendly conditioning · Exercise  
 - **[[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker]]** — Masters volume sensitivity · Sleep & recovery  
 - **[[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]]** — Ego volume after layoff · Returning  
 - **[[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon (2016)]]** — Pre-sleep protein · Nutrition  
@@ -52,7 +52,7 @@
 
 - **[[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017)]]** — Protein ± RT during weight loss · Nutrition  
 - **[[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]]** — Sleep and the athlete · Sleep & recovery  
-- **[[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]]** — Exertion as MI trigger · Returning  
+- **[[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]]** — Exertion as myocardial infarction (MI) trigger · Returning  
 
 ### Roster by path section
 

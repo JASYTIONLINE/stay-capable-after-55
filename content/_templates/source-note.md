@@ -11,7 +11,7 @@ Author. (Year). Title. *Venue*. URL
 
 (100–200 words. Covers / value / audience / limitations.)
 
-**Linking rule (required):** When you name another source or shelf in this collection, use a Quartz wikilink so the published site stays interconnected:
+**Linking rule (required):** When you name another source or section in this collection, use a Quartz wikilink so the published site stays interconnected:
 
 `[[Folder/note-filename|readable label]]`
 

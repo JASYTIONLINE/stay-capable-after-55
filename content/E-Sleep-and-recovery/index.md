@@ -6,9 +6,9 @@ Am I doing too much? Why am I sore and stuck? How do sleep and rest fit with rea
 
 ## Sources
 
-1. [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021) — Sleep and the athlete]] — BJSM consensus and practical sleep toolbox  
+1. [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021) — Sleep and the athlete]] — [British Journal of Sports Medicine (BJSM)](https://bjsm.bmj.com) consensus and practical sleep toolbox  
 2. [[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker — Volume and the masters lifter]] — many masters are volume-sensitive  
-3. [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|ACSM — Recovery for active older adults]] — sleep, nutrition, active recovery / mobility
+3. [American College of Sports Medicine (ACSM)](https://www.acsm.org) · [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|Recovery for active older adults]] — sleep, nutrition, active recovery / mobility
 
 ---
 

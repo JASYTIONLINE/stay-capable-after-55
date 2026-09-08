@@ -1,4 +1,4 @@
-# S16 — CRAAP Test
+# S16 — [Currency, Relevance, Authority, Accuracy, Purpose (CRAAP)](https://library.csuchico.edu/sites/default/files/craap-test.pdf) Test
 
 **Category:** [[A-Introduction/index|A — Introduction]]
 **Type:** Tool / library guide

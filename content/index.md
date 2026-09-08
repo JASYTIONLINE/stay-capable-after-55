@@ -1,8 +1,8 @@
 # Stay Capable After 55
 
-**A curated collection on strength and conditioning for athletes who remain active after 55**
+**A curated collection on strength and conditioning (S&C) for athletes who remain active after 55**
 
-Curator: 1SG John Barkle
+Curator: First Sergeant (1SG) John Barkle
 
 ---
 
@@ -14,7 +14,7 @@ Growing old is not an excuse for being out of shape. My body may be over the hil
 
 This collection is for adults 55 and older who train with purpose: martial artists, tactical or occupational fitness (police, fire, military), and serious recreational athletics. It is also for coaches sorting conflicting social and marketing advice. It is not a weight-loss library or a “just stay active” list.
 
-The core concept behind this program is: the Performance Triad of sleep, activity, and nutrition inside Holistic Health and Fitness (H2F) in FM 7-22 — one readiness system, not three unrelated disciplines. Sources expand that idea with civilian research, professional guidance, and teachers whose lives match their practice.
+The core concept behind this program is: the Performance Triad of sleep, activity, and nutrition inside [Holistic Health and Fitness (H2F)](https://www.army.mil/article/239475/holistic_health_added_to_army_fitness_doctrine) in [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) — one readiness system, not three unrelated disciplines. Sources expand that idea with civilian research, professional guidance, and teachers whose lives match their practice.
 
 The sections below move from framework to practice: judge sources, return safely, train, fuel, and recover. Each opens with annotated sources — click a title for the full write-up.
 
