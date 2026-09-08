@@ -10,7 +10,7 @@ configuration:
   analytics:
     provider: false
   locale: en-US
-  baseUrl: YOURUSER.github.io/stay-capable-after-55
+  baseUrl: jasyti.com/stay-capable-after-55
   ignorePatterns:
     - private
     - templates
