@@ -12,7 +12,6 @@ Watch the videos first if you need the gut punch. Then use the podcast, the ACSM
 
 - [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Video — Cleared by a doctor does not mean ready to play]] — clearance ≠ capacity
 - [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Video — Too much too soon: return-to-run comeback]] — the classic comeback mistake
-- [[B-Returning-to-active-lifestyle/S25-video-gradual-return-running|Video — Gradual return after time off]] — longer layoff, slower rebuild
 - [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Podcast — Travis Mash rebuilding after time off (50+)]] — high-performer comeback after major layoff
 - [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM — Preparticipation screening & progressive preparation]] — start low, go slow; warm-up before vigorous work
 - [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993) — Exertion as a trigger of MI (*NEJM*)]] — infrequent hard efforts raise short-term heart risk

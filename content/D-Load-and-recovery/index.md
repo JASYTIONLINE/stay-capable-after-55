@@ -10,5 +10,3 @@ This room is about **keeping training from outrunning recovery**: volume that is
 - [[D-Load-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021) — Sleep and the athlete]] — BJSM consensus on athlete sleep and a practical toolbox
 - [[D-Load-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker — Volume and the masters lifter]] — practitioner warning on volume sensitivity after midlife
 - [[D-Load-and-recovery/S21-acsm-recovery-older-adults|ACSM — Recovery for active older adults]] — sleep, nutrition, and active recovery including mobility
-- [[D-Load-and-recovery/S20-dvids-h2f-video|DVIDS — Holistic Health and Fitness Teams (video)]] — short official H2F / triad message
-- [[D-Load-and-recovery/S22-sleep-is-a-skill-durmer|Sleep Is A Skill — Durmer on Olympic weightlifting sleep]] — podcast episode on high-performance sleep care

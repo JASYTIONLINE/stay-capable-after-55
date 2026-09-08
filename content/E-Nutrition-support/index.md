@@ -13,4 +13,3 @@ Judge nutrition claims with [[A-Evidence-filter/index|Evidence filter]]. If you 
 - [[E-Nutrition-support/S14-trommelen-presleep-protein|Trommelen & van Loon (2016) — Pre-sleep protein]] — overnight fuel for training adaptations
 - [[E-Nutrition-support/S28-issn-protein-stand|ISSN — Protein and exercise position stand]] — macronutrient protein anchor
 - [[E-Nutrition-support/S29-body-signals-elevate-plate|Body Signals — Elevate Your Plate (RD Alyssa Wilson)]] — calories/plate method for training goals
-- [[E-Nutrition-support/S30-gssi-masters-protein|GSSI — Protein requirements of master athletes]] — do masters need more protein?

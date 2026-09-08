@@ -110,7 +110,7 @@ Popular nutrition/gut/longevity podcast; keep only if a strong episode is locked
 
 **DVIDS / Defense Media.** Holistic Health and Fitness Teams (video).  
 Short official PSA on Army H2F culture and holistic readiness.  
-→ [[D-Load-and-recovery/S20-dvids-h2f-video|Open source note]] · **In vault** · Load and recovery
+→ *Removed from collection (duplicate of FM 7-22)* · **Cut** · was Load and recovery
 
 ---
 
@@ -130,7 +130,7 @@ Industry sports-science piece on fueling active older adults.
 
 **GSSI.** Protein requirements of master athletes.  
 Do masters need more protein than younger athletes?  
-→ [[E-Nutrition-support/S30-gssi-masters-protein|Open source note]] · **In vault** · Nutrition support
+→ *Removed from collection (covered by Desbrow + ISSN)* · **Cut** · was Nutrition support
 
 ---
 
@@ -182,13 +182,13 @@ Systematic review of chronically trained masters — still-training evidence, no
 
 **Post-injury / gradual return to running** [Video].  
 Longer time off requires a slower whole-body rebuild.  
-→ [[B-Returning-to-active-lifestyle/S25-video-gradual-return-running|Open source note]] · **In vault** · Returning to an active lifestyle
+→ *Removed from collection (overlap with S23–S24)* · **Cut** · was Returning to an active lifestyle
 
 ---
 
 ## R
 
-**Returning to an active lifestyle** — see shelf [[B-Returning-to-active-lifestyle/index|B]] (videos S23–S25, Mash podcast S26, ACSM prep S27, Willich S31).
+**Returning to an active lifestyle** — see shelf [[B-Returning-to-active-lifestyle/index|B]] (videos S23–S24, Mash podcast S26, ACSM prep S27, Willich S31).
 
 **Riebe et al. / ACSM preparticipation** — see **ACSM / Riebe et al. (2016)**.
 
@@ -202,7 +202,7 @@ Instructional video for balance and joint-friendly conditioning after 60.
 
 **Sleep Is A Skill Podcast** (Mollie Eastman) — Ep. 173 Durmer (Olympic weightlifting sleep).  
 High-performance sleep care episode; triangulate with Walsh.  
-→ [[D-Load-and-recovery/S22-sleep-is-a-skill-durmer|Open source note]] · **In vault** · Load and recovery
+→ *Removed from collection (covered by Walsh)* · **Cut** · was Load and recovery
 
 **Sullivan & Baker.** Volume and the masters lifter (Starting Strength).  
 Practitioner warning: many masters are volume-sensitive.  
@@ -246,7 +246,7 @@ Unaccustomed hard exertion raises short-term MI risk — especially if you rarel
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| **In vault** (linked) | 28 — A:3 · B:6 · C:5 · D:6 · E:6 · F:2 |
+| **In vault** (linked) | 24 — A:3 · B:5 · C:5 · D:4 · E:5 · F:2 |
 | **Planned** Project 01 pages | Trim toward 15–20 for submit if required |
 | **Pool / not final** | Listed above without collection pages |
 
