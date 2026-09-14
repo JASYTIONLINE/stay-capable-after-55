@@ -10,12 +10,12 @@ Apple Podcasts show: https://podcasts.apple.com/us/podcast/body-signals-the-gluc
 
 ## Annotation
 
-This Body Signals live session with registered dietitian (RD) Alyssa Wilson adapts the plate method for weight loss, muscle building, and practical meal planning. It covers calories and intake structure for training goals through an RD, not a random influencer meal plan. It is valuable as this section’s accessible “how do I eat for the work” media piece after you read [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]] and [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen]]. Athletes after 55 managing fat loss while protecting muscle will benefit most. Signos is a commercial continuous glucose monitor (CGM) company, so treat product pitches cautiously — keep the nutrition teaching, run [Currency, Relevance, Authority, Accuracy, Purpose (CRAAP)](https://library.csuchico.edu/sites/default/files/craap-test.pdf) · [[A-Introduction/S16-craap-test|note]] on purpose, and verify protein targets against [International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[D-Nutrition/S28-issn-protein-stand|note]]. Do not elevate the whole Body Signals series as one source; this episode is the footprint. Link recovery sleep via [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh]] when under-eating wrecks recovery.
+This Body Signals live session with registered dietitian (RD) Alyssa Wilson adapts the plate method for weight loss, muscle building, and practical meal planning. It covers calories and intake structure for training goals through an RD, not a random influencer meal plan. It is valuable as this section’s accessible “how do I eat for the work” media piece after you read [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]] and [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen]]. Athletes after 55 managing fat loss while protecting muscle will benefit most. Signos is a commercial continuous glucose monitor (CGM) company, so treat product pitches cautiously — keep the nutrition teaching and verify protein targets against [International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[D-Nutrition/S28-issn-protein-stand|note]]. Do not elevate the whole Body Signals series as one source; this episode is the footprint. Link recovery sleep via [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh]] when under-eating wrecks recovery.
 
 ## See also
 
 - [[D-Nutrition/S11-desbrow-older-athletes|Desbrow]] · [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen]]
-- [[D-Nutrition/S28-issn-protein-stand|ISSN]] · [[A-Introduction/S16-craap-test|CRAAP]] · [[index|Home]]
+- [[D-Nutrition/S28-issn-protein-stand|ISSN]] · [[F-Takeaways/index|Takeaways]] · [[index|Home]]
 
 ---
 

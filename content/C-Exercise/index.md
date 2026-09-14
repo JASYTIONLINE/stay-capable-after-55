@@ -23,4 +23,4 @@ How should you lift, how often, how hard, and how do you mix strength with condi
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]] · [[C-Exercise/S03-markov-concurrent|Markov et al. (2023)]] · [[C-Exercise/S18-currier-acsm-video|Currier ACSM video]] · [[C-Exercise/S19-kennerley-velocity-phd|Kennerley PhD]] · [[C-Exercise/S09-christensen-solo-training-50|Christensen]] · [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit]]
+**Down:** [[C-Exercise/S04-fragala-nsca-older-adults|Fragala et al. (2019)]] · [[C-Exercise/S02-borde-dose-response|Borde et al. (2015)]] · [[C-Exercise/S03-markov-concurrent|Markov et al. (2023)]] · [[C-Exercise/S18-currier-acsm-video|Currier ACSM video]] · [[C-Exercise/S19-kennerley-velocity-phd|Kennerley PhD]] · [[C-Exercise/S09-christensen-solo-training-50|Christensen]] · [[C-Exercise/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit]] · [[F-Takeaways/index|Takeaways]]

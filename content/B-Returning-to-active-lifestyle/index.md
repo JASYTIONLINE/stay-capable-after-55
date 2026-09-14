@@ -16,4 +16,4 @@ The sources here answer one practical question: how do you prepare after time of
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready]] · [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]] · [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]] · [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM prep]] · [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Travis Mash podcast]]
+**Down:** [[B-Returning-to-active-lifestyle/S23-video-cleared-not-ready|Cleared ≠ ready]] · [[B-Returning-to-active-lifestyle/S24-video-too-much-too-soon|Too much too soon]] · [[B-Returning-to-active-lifestyle/S31-willich-exertion-mi-trigger|Willich et al. (1993)]] · [[B-Returning-to-active-lifestyle/S27-acsm-preparticipation-prep|ACSM prep]] · [[B-Returning-to-active-lifestyle/S26-podcast-mash-comeback|Travis Mash podcast]] · [[F-Takeaways/index|Takeaways]]

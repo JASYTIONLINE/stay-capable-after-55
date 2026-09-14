@@ -16,4 +16,4 @@ What should you eat so you keep muscle, fuel training, and do not wreck progress
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021)]] · [[D-Nutrition/S28-issn-protein-stand|ISSN protein stand]] · [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017)]] · [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon]] · [[D-Nutrition/S29-body-signals-elevate-plate|Elevate Your Plate]]
+**Down:** [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021)]] · [[D-Nutrition/S28-issn-protein-stand|ISSN protein stand]] · [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017)]] · [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon]] · [[D-Nutrition/S29-body-signals-elevate-plate|Elevate Your Plate]] · [[F-Takeaways/index|Takeaways]]

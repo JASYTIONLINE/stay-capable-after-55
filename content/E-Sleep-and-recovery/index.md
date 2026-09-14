@@ -14,4 +14,4 @@ Am I doing too much? Why am I sore and stuck? How do sleep and rest fit with rea
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker]] · [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|ACSM recovery]]
+**Down:** [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker]] · [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|ACSM recovery]] · [[F-Takeaways/index|Takeaways]]
