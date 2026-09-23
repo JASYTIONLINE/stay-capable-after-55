@@ -1,17 +1,27 @@
 # E. Sleep and recovery
 
-Sleep, load honesty, and recovery habits close the triad loop. Use this section when you are sore, stuck, or adding volume that your midlife body will not repay.
+**Purpose:** Treat sleep, load honesty, and recovery habits as capacity tools, not optional extras.
 
-Am I doing too much? Why am I sore and stuck? How do sleep and rest fit with real-life training and work? These sources speak to that.
+This section is primer content, not a source shelf. Full citations live in [[G-Sources/index|G. Sources]].
 
-## Sources
+## Outline (draft)
 
-1. [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021) — Sleep and the athlete]] — [British Journal of Sports Medicine (BJSM)](https://bjsm.bmj.com) consensus and practical sleep toolbox  
-2. [[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker — Volume and the masters lifter]] — many masters are volume-sensitive  
-3. [American College of Sports Medicine (ACSM)](https://www.acsm.org) · [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|Recovery for active older adults]] — sleep, nutrition, active recovery / mobility
+- Sleep as training capacity (not wellness fluff)
+- Under-sleep erases hard sessions
+- Many masters athletes are volume-sensitive: “just add more” often stalls progress
+- Longer recovery windows after midlife call for smarter load management
+- Practical recovery checklist (sleep, fuel, active recovery) without miracle products
+- Hand-off: pull the path together → [[F-Takeaways/index|Takeaways]]
+
+## Primary sources for this section
+
+- [[G-Sources/S13-walsh-athlete-sleep|S13 — Walsh et al. (2021)]]
+- [[G-Sources/S07-sullivan-masters-volume|S07 — Sullivan & Baker]]
+
+Also useful: [[G-Sources/S21-acsm-recovery-older-adults|S21 — ACSM recovery]]
 
 ---
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[E-Sleep-and-recovery/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[E-Sleep-and-recovery/S07-sullivan-masters-volume|Sullivan & Baker]] · [[E-Sleep-and-recovery/S21-acsm-recovery-older-adults|ACSM recovery]] · [[F-Takeaways/index|Takeaways]]
+**Down:** [[D-Nutrition/index|Nutrition]] · [[F-Takeaways/index|Takeaways]] · [[G-Sources/index|Sources]]

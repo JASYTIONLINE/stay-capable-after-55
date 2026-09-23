@@ -1,18 +1,27 @@
 # A. Introduction — Readiness frame and what changes after midlife
 
-The concept of the Performance Triad came from the Army **[Holistic Health and Fitness (H2F)](https://www.army.mil/article/239475/holistic_health_added_to_army_fitness_doctrine)** doctrine in **[Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf)**, which treats sleep, activity, and nutrition as **one readiness system** — not three separate disciplines. This section opens the collection with that frame, then adds peer-reviewed evidence on how muscle and bone respond differently after midlife, plus research on people who kept training.
+**Purpose:** Set who this primer is for, introduce the Performance Triad, and name why the mid-40s regimen starts to stall.
 
-Competing, marketing-heavy advice is background noise. The point of these sources is a clearer path built on doctrine, physiology, and still-training evidence—so you can adapt a demanding lifestyle to an aging body.
+This section is primer content, not a source shelf. Full citations live in [[G-Sources/index|G. Sources]].
 
-## Sources
+## Outline (draft)
 
-1. [[A-Introduction/S15-fm-7-22-h2f|FM 7-22 — Holistic Health and Fitness]] — doctrine spine: sleep, activity, nutrition as readiness  
-2. [[A-Introduction/S32-endo-anabolic-aging|Endo & Nourmahnad (2020) — Anabolic response in aging]] — why the same training stimulus can buy less after midlife  
-3. [[A-Introduction/S33-obryan-bone-strength|O’Bryan et al. (2022) — Strength and bone mineral density]] — progressive RT still protects muscle and bone  
-4. [[A-Introduction/S01-mckendry-master-athletes|McKendry et al. (2018) — Master athletes]] — research on people who kept training  
+- Who this is for: still-training athletes after midlife (martial arts, Guard/tactical, serious recreational), not sedentary “senior fitness”
+- Why competing marketing advice needs a clearer path built on doctrine + research + lived practice
+- Performance Triad from FM 7-22: sleep, activity, and nutrition as one readiness system
+- Midlife physiology aha: the same lifting stimulus can buy less muscle (anabolic response changes)
+- Still-training bodies are not “stopped senior” bodies (masters-athlete evidence as a better mirror)
+- Hand-off: prepare before you chase the old self → [[B-Returning-to-active-lifestyle/index|Returning]]
+
+## Primary sources for this section
+
+- [[G-Sources/S15-fm-7-22-h2f|S15 — FM 7-22 / H2F]]
+- [[G-Sources/S32-endo-anabolic-aging|S32 — Endo & Nourmahnad (2020)]]
+
+Also useful: [[G-Sources/S33-obryan-bone-strength|S33 — O’Bryan]] · [[G-Sources/S01-mckendry-master-athletes|S01 — McKendry]]
 
 ---
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[A-Introduction/S15-fm-7-22-h2f|FM 7-22]] · [[A-Introduction/S32-endo-anabolic-aging|Endo]] · [[A-Introduction/S33-obryan-bone-strength|O’Bryan]] · [[A-Introduction/S01-mckendry-master-athletes|McKendry]] · [[F-Takeaways/index|Takeaways]]
+**Down:** [[B-Returning-to-active-lifestyle/index|Returning]] · [[F-Takeaways/index|Takeaways]] · [[G-Sources/index|Sources]]

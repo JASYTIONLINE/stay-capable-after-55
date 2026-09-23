@@ -1,19 +1,27 @@
 # D. Nutrition
 
-Protein, intake structure, and timing support lifting, recovery, and staying capable after 55 — especially when cutting weight without throwing away muscle. This is fuel for capacity, not a second diet collection.
+**Purpose:** Treat nutrition as fuel for capacity under training and optional fat loss, not a second diet hobby.
 
-What should you eat so you keep muscle, fuel training, and do not wreck progress when you cut weight?
+This section is primer content, not a source shelf. Full citations live in [[G-Sources/index|G. Sources]].
 
-## Sources
+## Outline (draft)
 
-1. [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021) — Nutrition for older athletes]] — protein and fuel for people who still train  
-2. [International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[D-Nutrition/S28-issn-protein-stand|Protein and exercise position stand]] — macronutrient protein anchor  
-3. [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017) — High protein ± resistance training (RT) during weight loss]] — keep lean mass while cutting  
-4. [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon (2016) — Pre-sleep protein]] — overnight fuel for training adaptations  
-5. [[D-Nutrition/S29-body-signals-elevate-plate|Body Signals — Elevate Your Plate]] — practical plate method with registered dietitian (RD) Alyssa Wilson  
+- Protein and timing serve the training plan (triad nutrition pillar)
+- Older athletes often need higher protein attention, especially in a cut
+- Keep lean mass while losing fat: high protein ± resistance training evidence
+- Overnight / pre-sleep protein as one timing lever
+- Practical plate structure without commercial gadget worship
+- Hand-off: sleep and volume honesty close the loop → [[E-Sleep-and-recovery/index|Sleep and recovery]]
+
+## Primary sources for this section
+
+- [[G-Sources/S11-desbrow-older-athletes|S11 — Desbrow et al. (2021)]]
+- [[G-Sources/S12-verreijen-protein-weight-loss|S12 — Verreijen et al. (2017)]]
+
+Also useful: [[G-Sources/S28-issn-protein-stand|S28]] · [[G-Sources/S14-trommelen-presleep-protein|S14]] · [[G-Sources/S29-body-signals-elevate-plate|S29]]
 
 ---
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[D-Nutrition/S11-desbrow-older-athletes|Desbrow et al. (2021)]] · [[D-Nutrition/S28-issn-protein-stand|ISSN protein stand]] · [[D-Nutrition/S12-verreijen-protein-weight-loss|Verreijen et al. (2017)]] · [[D-Nutrition/S14-trommelen-presleep-protein|Trommelen & van Loon]] · [[D-Nutrition/S29-body-signals-elevate-plate|Elevate Your Plate]] · [[F-Takeaways/index|Takeaways]]
+**Down:** [[C-Exercise/index|Exercise]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[F-Takeaways/index|Takeaways]] · [[G-Sources/index|Sources]]
