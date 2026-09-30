@@ -12,12 +12,12 @@ Jäger, R., Kerksick, C. M., Campbell, B. I., Cribb, P. J., Wells, S. D., Skwiat
 
 ## Annotation
 
-This ISSN position stand reviews protein intake for healthy exercising individuals, including daily ranges, per-meal dosing, leucine considerations, and timing around training. It covers the macronutrient anchor for muscle building and training support. It is valuable for grounding “macros” talk that otherwise floats in podcast land — a credentialed standard you can use to ground weak claims. Athletes after 55 and coaches setting protein targets will benefit most when they also apply older-athlete adjustments from [[G-Sources/S11-desbrow-older-athletes|Desbrow]]. It is not written only for masters athletes. Pair overnight timing with [[G-Sources/S14-trommelen-presleep-protein|Trommelen]] and weight-loss contexts with [[G-Sources/S12-verreijen-protein-weight-loss|Verreijen]]. Do not let commercial continuous glucose monitor (CGM)/meal apps outrank this stand.
+This ISSN position stand reviews protein intake for healthy exercising individuals, including daily ranges, per-meal dosing, leucine considerations, and timing around training. It covers the macronutrient anchor for muscle building and training support. It is valuable for grounding “macros” talk that otherwise floats in podcast land — a credentialed standard you can use to ground weak claims. Athletes after 55 and coaches setting protein targets will benefit most when they also apply older-athlete adjustments from [[G-Sources/S11-strasser-older-athletes|Strasser]] and goal-based calorie/macro framing from [[G-Sources/S34-issn-diets-body-composition|ISSN diets and body composition]]. It is not written only for masters athletes. Pair overnight timing with [[G-Sources/S14-trommelen-presleep-protein|Trommelen]] and weight-loss contexts with [[G-Sources/S12-verreijen-protein-weight-loss|Verreijen]]. Micronutrient ceilings and fact sheets live in [[G-Sources/S36-nih-ods-nutrient-recs|NIH ODS]]. Do not let commercial continuous glucose monitor (CGM)/meal apps outrank this stand.
 
 ## See also
 
-- [[G-Sources/S11-desbrow-older-athletes|Desbrow]] · [[G-Sources/S14-trommelen-presleep-protein|Trommelen]]
-- [[G-Sources/S12-verreijen-protein-weight-loss|Verreijen]] · [[G-Sources/S29-body-signals-elevate-plate|Elevate Your Plate]] · [[index|Home]]
+- [[G-Sources/S11-strasser-older-athletes|Strasser]] · [[G-Sources/S14-trommelen-presleep-protein|Trommelen]]
+- [[G-Sources/S12-verreijen-protein-weight-loss|Verreijen]] · [[G-Sources/S34-issn-diets-body-composition|ISSN diets & body composition]] · [[G-Sources/S36-nih-ods-nutrient-recs|NIH ODS]] · [[G-Sources/S29-body-signals-elevate-plate|Elevate Your Plate]] · [[index|Home]]
 
 ---
 

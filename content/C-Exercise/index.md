@@ -4,7 +4,7 @@
 
 His own template after midlife is a standard routine, not a mood-based scramble. Martial arts days. Weight days. A shorter solo session. A rest day or light shadowboxing. He says nothing about the plan is magic except that he does it consistently, and that by accepting a modified schedule he held onto most of what mattered instead of losing it by chasing the old self.
 
-Once [[B-Returning-to-active-lifestyle/index|Returning]] has earned you a base, this page is the activity pillar: train hard enough on purpose, on a week you can repeat. After midlife, intermittent bursts and long disappearing acts cost more than they used to. The requirement is a standard routine with planned easier days. When you are tired or worn down, lower the intensity and stay in the habit. Do not take extended time off and recreate the comeback problem [[B-Returning-to-active-lifestyle/index|Returning]] already warned you about.
+Once [[B-Returning-to-active-lifestyle/index|Returning]] has earned you a base, train hard enough on purpose, on a week you can repeat. After midlife, intermittent bursts and long disappearing acts cost more than they used to. The requirement is a standard routine with planned easier days. When you are tired or worn down, lower the intensity and stay in the habit. Do not take extended time off and recreate the comeback problem from [[B-Returning-to-active-lifestyle/index|Returning]].
 
 ## Keep a week you can repeat
 
@@ -14,13 +14,13 @@ Christensen’s week is one lived model of that idea: hard enough to progress, s
 
 ## Progressive resistance still works
 
-Hard training after midlife is not vanity. It is how you keep capacity for the mat, the uniform, and the job. The [National Strength and Conditioning Association (NSCA)](https://www.nsca.com) position statement on resistance training for older adults is the programming spine here: progressive plans, meaningful intensity, multi-joint lifts, and power work at moderate loads<sup>[[G-Sources/S04-fragala-nsca-older-adults|S04]]</sup> ([NSCA statement](https://www.nsca.com/about-us/position-statements/resistance-training-for-older-adults/)). Lead author [Maren Fragala](https://scholar.google.com/citations?user=TtMk4mUAAAAJ&hl=en) and colleagues write for people who still need strength, not for a sedentary “senior stretch” class.
+Hard training after midlife is not vanity. It is how you keep capacity for the mat, the uniform, and the job. The [National Strength and Conditioning Association (NSCA)](https://www.nsca.com) position statement on resistance training for older adults is the programming spine: progressive plans, meaningful intensity, multi-joint lifts, and power work at moderate loads<sup>[[G-Sources/S04-fragala-nsca-older-adults|S04]]</sup> ([NSCA statement](https://www.nsca.com/about-us/position-statements/resistance-training-for-older-adults/)). Lead author [Maren Fragala](https://scholar.google.com/citations?user=TtMk4mUAAAAJ&hl=en) and colleagues write for people who still need strength, not for a sedentary “senior stretch” class.
 
 Dose still matters. Frequency, intensity, and volume ranges for healthy older adults are mapped by [Borde](https://pubmed.ncbi.nlm.nih.gov/?term=Borde+R%5BAuthor%5D+Granacher) and colleagues<sup>[[G-Sources/S02-borde-dose-response|S02]]</sup>. Use that evidence to audit social-media templates before they outrank your recovery.
 
 Aging can blunt the return on the same stimulus. [Endo](https://connects.catalyst.harvard.edu/Profiles/display/Person/165349) and [Nourmahnad](https://pubmed.ncbi.nlm.nih.gov/?term=Nourmahnad+A) explain why the same lift can buy less muscle after midlife<sup>[[G-Sources/S32-endo-anabolic-aging|S32]]</sup> ([DOI](https://doi.org/10.3389/fphys.2020.00874)). Progressive resistance can still increase lower-limb strength and support femur and hip bone mineral density ([O’Bryan](https://researchers.vu.edu.au/3351-steven-o'bryan) and colleagues)<sup>[[G-Sources/S33-obryan-bone-strength|S33]]</sup> ([DOI](https://doi.org/10.1007/s40279-022-01675-2)). The plan must be smarter, not softer by default, and consistent enough that the stimulus keeps arriving.
 
-Still-training research ([McKendry](https://news.ubc.ca/expert/dr-james-mckendry/)<sup>[[G-Sources/S01-mckendry-master-athletes|S01]]</sup>) reminds you that chronically trained bodies are not sedentary samples. You are not writing a retirement fitness pamphlet. You are recalibrating a demanding life.
+Still-training research ([McKendry](https://news.ubc.ca/expert/dr-james-mckendry/)<sup>[[G-Sources/S01-mckendry-master-athletes|S01]]</sup>) reminds you that chronically trained bodies are not sedentary samples. This is not retirement fitness. It is recalibrating a demanding life.
 
 ## Concurrent work must be designed
 

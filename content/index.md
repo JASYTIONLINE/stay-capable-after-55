@@ -6,9 +6,9 @@ Curator: John Barkle
 
 ---
 
-My mid-40s training plan stopped paying off after 55, and my lifestyle still demands strength. If that sounds familiar, this site is for you.
+My mid-40s training plan stopped paying off after 55, and my lifestyle still demands strength. If that sounds familiar, keep reading.
 
-You will leave with a corrected map: why the old regimen stalls after midlife, what to change first, and how sleep, activity, and nutrition work as one readiness system. The deep receipts live in [[G-Sources/index|G]].
+Start with why the old regimen stalls after midlife, what to change first, and how sleep, activity, and nutrition work as one readiness system. The deep receipts live in [[G-Sources/index|G]].
 
 ### Guided path
 

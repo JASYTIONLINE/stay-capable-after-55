@@ -60,13 +60,17 @@ SECTIONS: list[tuple[str, str, list[str]]] = [
     ),
     (
         "D. Nutrition",
-        "Fuel for capacity — protein, intake structure, and timing under training.",
+        "Fuel for capacity: goals, calories, macros, micros, and limits under training.",
         [
-            "D-Nutrition/S11-desbrow-older-athletes.md",
-            "D-Nutrition/S28-issn-protein-stand.md",
-            "D-Nutrition/S12-verreijen-protein-weight-loss.md",
-            "D-Nutrition/S14-trommelen-presleep-protein.md",
-            "D-Nutrition/S29-body-signals-elevate-plate.md",
+            "G-Sources/S11-strasser-older-athletes.md",
+            "G-Sources/S28-issn-protein-stand.md",
+            "G-Sources/S34-issn-diets-body-composition.md",
+            "G-Sources/S12-verreijen-protein-weight-loss.md",
+            "G-Sources/S14-trommelen-presleep-protein.md",
+            "G-Sources/S35-mifflin-st-jeor.md",
+            "G-Sources/S36-nih-ods-nutrient-recs.md",
+            "G-Sources/S37-stern-masters-underfuelling.md",
+            "G-Sources/S29-body-signals-elevate-plate.md",
         ],
     ),
     (

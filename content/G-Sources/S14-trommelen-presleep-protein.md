@@ -12,12 +12,12 @@ Trommelen, J., & van Loon, L. J. C. (2016). Pre-sleep protein ingestion to impro
 
 ## Annotation
 
-This review shows pre-sleep protein is digested overnight, raises overnight muscle protein synthesis, and can support strength and mass gains when paired with resistance training (RT). It covers the sleep window as part of fueling — lifting, nutrition, and overnight recovery in one strategy. It is valuable as a triad-friendly nutrition node: food that serves training capacity while you sleep. Athletes who train hard but under-recover overnight will benefit most. Key training trials often use younger adults, so pair age context with [[G-Sources/S11-desbrow-older-athletes|Desbrow]] and sleep quality with [[G-Sources/S13-walsh-athlete-sleep|Walsh]]. Keep protein dosing grounded in [International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[G-Sources/S28-issn-protein-stand|note]] and doctrine context in [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) · [[G-Sources/S15-fm-7-22-h2f|note]]. This is support for capacity, not permission to build a second diet rabbit hole.
+This review shows pre-sleep protein is digested overnight, raises overnight muscle protein synthesis, and can support strength and mass gains when paired with resistance training (RT). It covers the sleep window as part of fueling — lifting, nutrition, and overnight recovery in one strategy. It is valuable as a triad-friendly nutrition node: food that serves training capacity while you sleep. Athletes who train hard but under-recover overnight will benefit most. Key training trials often use younger adults, so pair age context with [[G-Sources/S11-strasser-older-athletes|Strasser]] and sleep quality with [[G-Sources/S13-walsh-athlete-sleep|Walsh]]. Keep protein dosing grounded in [International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[G-Sources/S28-issn-protein-stand|note]], goal calories in [[G-Sources/S34-issn-diets-body-composition|ISSN diets and body composition]], and doctrine context in [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) · [[G-Sources/S15-fm-7-22-h2f|note]]. This is support for capacity, not permission to build a second diet rabbit hole.
 
 ## See also
 
-- [[G-Sources/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[G-Sources/S11-desbrow-older-athletes|Desbrow]]
-- [[G-Sources/S28-issn-protein-stand|ISSN]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[index|Home]]
+- [[G-Sources/S13-walsh-athlete-sleep|Walsh et al. (2021)]] · [[G-Sources/S11-strasser-older-athletes|Strasser]]
+- [[G-Sources/S28-issn-protein-stand|ISSN]] · [[G-Sources/S34-issn-diets-body-composition|ISSN diets & body composition]] · [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[index|Home]]
 
 ---
 

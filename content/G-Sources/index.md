@@ -4,7 +4,7 @@ Annotated sources behind [[A-Introduction/index|Introduction]] through [[F-Takea
 
 Superscripts in the guide (for example <sup>S15</sup>) open the matching note below. Named works also link to the original PDF, DOI, or publisher page when available.
 
-**Live count:** 24 · Doctrine spine: [[G-Sources/S15-fm-7-22-h2f|FM 7-22 (S15)]] · **Supports** tags show which sections each source informs.
+**Live count:** 28 · Doctrine spine: [[G-Sources/S15-fm-7-22-h2f|FM 7-22 (S15)]] · **Supports** tags show which sections each source informs.
 
 ---
 
@@ -34,11 +34,15 @@ Superscripts in the guide (for example <sup>S15</sup>) open the matching note be
 - [[G-Sources/S33-obryan-bone-strength|S33 — O’Bryan et al. (2022)]] — also Supports: A · C · F
 
 ### D — Nutrition
-- [[G-Sources/S11-desbrow-older-athletes|S11 — Desbrow et al. (2021)]] — Supports: D
+- [[G-Sources/S11-strasser-older-athletes|S11 — Strasser et al. (2021)]] — Supports: D
 - [[G-Sources/S28-issn-protein-stand|S28 — ISSN protein stand]] — Supports: D
+- [[G-Sources/S34-issn-diets-body-composition|S34 — ISSN diets & body composition]] — Supports: D
 - [[G-Sources/S12-verreijen-protein-weight-loss|S12 — Verreijen et al. (2017)]] — Supports: D
 - [[G-Sources/S14-trommelen-presleep-protein|S14 — Trommelen & van Loon (2016)]] — Supports: D
+- [[G-Sources/S35-mifflin-st-jeor|S35 — Mifflin–St Jeor (1990)]] — Supports: D
+- [[G-Sources/S36-nih-ods-nutrient-recs|S36 — NIH ODS nutrient recommendations]] — Supports: D
 - [[G-Sources/S29-body-signals-elevate-plate|S29 — Elevate Your Plate]] — Supports: D
+- [[G-Sources/S37-stern-masters-underfuelling|S37 — Stern (masters under-fuelling)]] — Supports: D
 
 ### E — Sleep and recovery
 - [[G-Sources/S13-walsh-athlete-sleep|S13 — Walsh et al. (2021)]] — Supports: E · F
@@ -68,20 +72,24 @@ F does not add new S-IDs. It draws on sources tagged **F** above, especially S15
 
 ### D–F
 - **[[G-Sources/S15-fm-7-22-h2f|Department of the Army, FM 7-22]]** — H2F / Performance Triad · A
-- **[[G-Sources/S11-desbrow-older-athletes|Desbrow et al. (2021)]]** — Nutrition for older athletes · D
+- **[[G-Sources/S11-strasser-older-athletes|Strasser et al. (2021)]]** — Nutrition for older athletes · D
 - **[[G-Sources/S32-endo-anabolic-aging|Endo & Nourmahnad (2020)]]** — Anabolic response to RT in aging · A
 - **[[G-Sources/S04-fragala-nsca-older-adults|Fragala et al. (2019)]]** — [NSCA](https://www.nsca.com) RT for older adults · C
 
 ### I–M
 - **[International Society of Sports Nutrition (ISSN)](https://www.issn.org) · [[G-Sources/S28-issn-protein-stand|Jäger et al. (2017)]]** — Protein and exercise · D
+- **[[G-Sources/S34-issn-diets-body-composition|ISSN diets & body composition (2017)]]** — Goal-based energy and macros · D
 - **[[G-Sources/S19-kennerley-velocity-phd|Kennerley (2023)]]** — Velocity / power RT · C
 - **[[G-Sources/S03-markov-concurrent|Markov et al. (2023)]]** — Concurrent training · C
 - **[[G-Sources/S01-mckendry-master-athletes|McKendry et al. (2018)]]** — Master athletes · A
+- **[[G-Sources/S35-mifflin-st-jeor|Mifflin et al. (1990)]]** — Resting energy equation · D
 
-### O–T
+### N–T
+- **[[G-Sources/S36-nih-ods-nutrient-recs|NIH ODS nutrient recommendations]]** — DRIs, ULs, vitamin/mineral fact sheets · D
 - **[[G-Sources/S33-obryan-bone-strength|O’Bryan et al. (2022)]]** — Progressive RT, strength, and bone mineral density · A / C
 - **[Yang’s Martial Arts Association (YMAA)](https://ymaa.com) · [[G-Sources/S10-ross-tai-chi-fit-over-60|Ross / Tai Chi Fit Over 60]]** — Balance & joint-friendly conditioning · C
 - **[[G-Sources/S07-sullivan-masters-volume|Sullivan & Baker]]** — Masters volume sensitivity · E
+- **[[G-Sources/S37-stern-masters-underfuelling|Stern (masters under-fuelling)]]** — Carbohydrate / energy under-fueling in masters cyclists · D
 - **[[G-Sources/S24-video-too-much-too-soon|Too much too soon]]** — Ego volume after layoff · B
 - **[[G-Sources/S14-trommelen-presleep-protein|Trommelen & van Loon (2016)]]** — Pre-sleep protein · D
 
@@ -94,13 +102,13 @@ F does not add new S-IDs. It draws on sources tagged **F** above, especially S15
 
 ## Flat ID list
 
-S01 · S02 · S03 · S04 · S07 · S09 · S10 · S11 · S12 · S13 · S14 · S15 · S18 · S19 · S21 · S23 · S24 · S26 · S27 · S28 · S29 · S31 · S32 · S33
+S01 · S02 · S03 · S04 · S07 · S09 · S10 · S11 · S12 · S13 · S14 · S15 · S18 · S19 · S21 · S23 · S24 · S26 · S27 · S28 · S29 · S31 · S32 · S33 · S34 · S35 · S36 · S37
 
 ---
 
 ## What these sources say together
 
-Most people over fifty-five who still train do not fail because they lack tips. They fail because they keep running a mid-40s playbook on a body that has changed. [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) treats sleep, activity, and nutrition as one readiness system. Peer-reviewed physiology ([Endo](https://connects.catalyst.harvard.edu/Profiles/display/Person/165349), [O’Bryan](https://researchers.vu.edu.au/3351-steven-o'bryan)) and still-training evidence ([McKendry](https://news.ubc.ca/expert/dr-james-mckendry/)) sit beside that frame. The rest of these sources pick up comeback prep, programming, fuel, and recovery for people under real demand.
+Most people over fifty-five who still train do not fail because they lack tips. They fail because they keep running a mid-40s playbook on a body that has changed. [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) treats sleep, activity, and nutrition as one readiness system. Peer-reviewed physiology ([Endo](https://connects.catalyst.harvard.edu/Profiles/display/Person/165349), [O’Bryan](https://researchers.vu.edu.au/3351-steven-o'bryan)) and still-training evidence ([McKendry](https://news.ubc.ca/expert/dr-james-mckendry/)) sit beside that frame. Fuel planning for [[D-Nutrition/index|Nutrition]] now also rests on ISSN body-composition guidance ([[G-Sources/S34-issn-diets-body-composition|S34]]), calorie-estimate method ([[G-Sources/S35-mifflin-st-jeor|S35]]), NIH ODS micronutrient/UL references ([[G-Sources/S36-nih-ods-nutrient-recs|S36]]), and coaching on masters under-fuelling ([[G-Sources/S37-stern-masters-underfuelling|S37]]). The rest of these sources pick up comeback prep, programming, and recovery for people under real demand.
 
 ---
 

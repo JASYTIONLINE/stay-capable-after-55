@@ -2,7 +2,7 @@
 
 [Klay Thompson](https://www.nba.com/player/202691/klay-thompson) is a longtime [National Basketball Association (NBA)](https://www.nba.com) shooting guard for the Golden State Warriors, a multi-time champion and All-Star known for endless catch-and-shoot threes. In the 2019 NBA Finals he tore his anterior cruciate ligament (ACL). He spent more than a year rehabbing, then, past thirty, got cleared to play pickup basketball again. He missed the game so badly that he jumped back into hard unsupervised 5-on-5 while still heavier than his usual playing weight. In an interview with *The Athletic* (a major sports journalism outlet), later reported by [CBS Sports](https://www.cbssports.com/nba/news/klay-thompson-says-hurrying-back-from-acl-tear-might-have-led-to-achilles-injury-i-just-missed-the-game/), he said he was cleared, felt strong from lifting, but was “not sure if it was the right move.” During that comeback window he tore his Achilles tendon and lost another stretch of his late prime. He later admitted the impatience may have been costly. Clearance was not the same as readiness. Missing the old self was not a training plan.
 
-This page is about not destroying the comeback while you fix it. You already know the old intensity. The danger is pretending your tissue remembers it as well as your mind does. I learned that the expensive way when I went back to running like the old me and wrecked my knee. Mind ahead of body is how comebacks die.
+Do not destroy the comeback while you fix it. You already know the old intensity. The danger is pretending your tissue remembers it as well as your mind does. I learned that the expensive way when I went back to running like the old me and wrecked my knee. Mind ahead of body is how comebacks die.
 
 ## Clearance is not readiness
 
@@ -14,13 +14,13 @@ Ask for more than a yes or no. Ask your doctor and physical therapist for timeli
 
 ## Too much too soon
 
-Here is how I wrecked my knee. I still remembered what a “real” run felt like: the mileage, the hills, the pace I used to hold. So I laced up and tried to be that guy again. My body was not that guy anymore. The legs and the joint had lost months of capacity. The mind had not. I paid for the gap. A mile and a half into the run, I felt a twinge in my knee,  as I did a million times before, I noted it, and kept pushing through the pain.
+I wrecked my knee this way. I still remembered what a “real” run felt like: the mileage, the hills, the pace I used to hold. So I laced up and tried to be that guy again. My body was not that guy anymore. The legs and the joint had lost months of capacity. The mind had not. I paid for the gap. A mile and a half into the run, I felt a twinge in my knee,  as I did a million times before, I noted it, and kept pushing through the pain.
 
 Thompson said something close after thirty: he tried to play like he was still in his early twenties. Same trap, different sport. You miss the old self, you skip the rebuild, and the first hard week that feels like “proof” is often the week that sets you back.
 
 Coaches talk about this constantly under plain titles like “too much too soon” and “cleared does not mean ready”<sup>[[G-Sources/S24-video-too-much-too-soon|S24]]</sup> · <sup>[[G-Sources/S23-video-cleared-not-ready|S23]]</sup>. Those clips are coaching talk, not peer-reviewed trials. The research-backed version is ACSM prep<sup>[[G-Sources/S27-acsm-preparticipation-prep|S27]]</sup>: earn intensity with a ramp. Do not copy a social-media plan, and do not copy the highlight reel of who you used to be.
 
-**Bottom Line** Do not pick up where you left off. Plan the comeback. Write what the first honest weeks look like before you decide what the old personal record should feel like. Hard programming in [[C-Exercise/index|Exercise]] waits until that base is real.
+Do not pick up where you left off. Plan the comeback. Write what the first honest weeks look like before you decide what the old personal record should feel like. Hard programming in [[C-Exercise/index|Exercise]] waits until that base is real.
 
 ## Unaccustomed hard effort is not only an orthopedic problem
 
