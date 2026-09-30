@@ -2,7 +2,7 @@
 
 You already know how to train. What changed after midlife is the body you train with. The mid-40s profile often forgave hard weeks, short recoveries, and ego intensity. After 55, those same habits return diminishing results, longer injury timelines, and more risk when you chase the old self too soon. That is why this primer exists.
 
-[[A-Introduction/index|Introduction]] gives the readiness frame and physiology. [[B-Returning-to-active-lifestyle/index|Returning]] warns that clearance is not readiness. [[C-Exercise/index|Exercise]] keeps progressive loading and lived practice in the plan. [[D-Nutrition/index|Nutrition]] fuels the work. [[E-Sleep-and-recovery/index|Sleep and recovery]] protects progress with sleep and volume honesty. Together they argue one claim: adapt the lifestyle to the aging body without abandoning a demanding life.
+[[A-Introduction/index|Introduction]] gives the readiness frame and physiology. [[B-Returning-to-active-lifestyle/index|Returning]] warns that clearance is not readiness. [[C-Exercise/index|Exercise]] keeps a repeatable week, progressive loading, and downshifts instead of long layoffs. [[D-Nutrition/index|Nutrition]] fuels the work. [[E-Sleep-and-recovery/index|Sleep and recovery]] protects progress with sleep and volume honesty. Together they argue one claim: adapt the lifestyle to the aging body without abandoning a demanding life.
 
 ## Keep this
 
@@ -16,7 +16,7 @@ You already know how to train. What changed after midlife is the body you train 
 
 5. **Volume honesty beats “just add more.”** Many masters athletes are volume-sensitive. Concurrent work must be designed. → [Sullivan](https://startingstrength.com/guest/jonathon-sullivan) & [Baker](https://www.andybaker.com/)<sup>[[G-Sources/S07-sullivan-masters-volume|S07]]</sup> · [Markov](https://pubmed.ncbi.nlm.nih.gov/?term=Markov+A%5BAuthor%5D+Chaabene+concurrent) et al.<sup>[[G-Sources/S03-markov-concurrent|S03]]</sup> ([Springer](https://link.springer.com/article/10.1007/s40279-022-01764-2))
 
-6. **Still-training bodies are not “stopped senior” bodies.** → [McKendry](https://news.ubc.ca/expert/dr-james-mckendry/) et al.<sup>[[G-Sources/S01-mckendry-master-athletes|S01]]</sup> ([PubMed](https://pubmed.ncbi.nlm.nih.gov/29715523/)) · [Christensen](https://www.lwcbooks.com/)<sup>[[G-Sources/S09-christensen-solo-training-50|S09]]</sup>
+6. **Still-training bodies need a standard week, not intermittent bursts.** Chronically trained athletes are not sedentary “senior” samples. Keep the habit; when worn down, lower intensity instead of disappearing. → [McKendry](https://news.ubc.ca/expert/dr-james-mckendry/) et al.<sup>[[G-Sources/S01-mckendry-master-athletes|S01]]</sup> ([PubMed](https://pubmed.ncbi.nlm.nih.gov/29715523/)) · [Christensen](https://www.lwcbooks.com/)<sup>[[G-Sources/S09-christensen-solo-training-50|S09]]</sup> · [[C-Exercise/index|Exercise]]
 
 7. **One readiness system.** Sleep, activity, and nutrition work together. → [FM 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf)<sup>[[G-Sources/S15-fm-7-22-h2f|S15]]</sup>
 

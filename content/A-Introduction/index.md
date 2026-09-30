@@ -42,7 +42,7 @@ Read straight through, or open one section when that is the problem on your plat
 
 1. **[[A-Introduction/index|Introduction]]** (this page) - Why the site exists, what the theory is, what the sources already support, and what is still open.  
 2. **[[B-Returning-to-active-lifestyle/index|Returning]]** - Come back after time off or injury without destroying the comeback. Clearance is not readiness.  
-3. **[[C-Exercise/index|Exercise]]** - Train hard enough on purpose: progressive strength, dose, concurrent work, lived practice.  
+3. **[[C-Exercise/index|Exercise]]** - Train hard enough on purpose: a standard week, progressive strength, concurrent design, downshift instead of long layoffs.  
 4. **[[D-Nutrition/index|Nutrition]]** - Fuel for the work, not a second diet hobby.  
 5. **[[E-Sleep-and-recovery/index|Sleep and recovery]]** - Sleep as capacity and volume honesty for masters athletes.  
 6. **[[F-Takeaways/index|Takeaways]]** - Mid-40s habits versus after 55, and what to keep.  
