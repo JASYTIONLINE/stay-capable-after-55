@@ -1,27 +1,67 @@
-# A. Introduction — Readiness frame and what changes after midlife
+# A. Introduction - You're not 40 anymore
 
-**Purpose:** Set who this primer is for, introduce the Performance Triad, and name why the mid-40s regimen starts to stall.
+Welcome. I'd like to tell you a story. I turned 55 in August of 2025. Not long after that, I decided my cardio needed work and that it was time to go for a run. Unfortunately, I went back to running like the old me: too far, too soon, and on a body that had not earned that mileage yet. Two hundred yards from the finish line, I wrecked my knee. As a First Sergeant in the Texas National Guard and someone who still trains martial arts under Kuk Sool Won, that was not a small setback. It put my job, my training, and the lifestyle I refuse to quit at risk.
 
-This section is primer content, not a source shelf. Full citations live in [[G-Sources/index|G. Sources]].
+My body may be over the hill, but my lifestyle still requires me to climb the mountain every day. Growing old is not an excuse for being out of shape when the job and the mat still demand stamina, flexibility, and strength. Necessity and desire do not magically combine to get results. I built this site because my mid-40s plan stopped paying off after 55, and I refuse to quit the demanding life.
 
-## Outline (draft)
+## You're not the average senior citizen
 
-- Who this is for: still-training athletes after midlife (martial arts, Guard/tactical, serious recreational), not sedentary “senior fitness”
-- Why competing marketing advice needs a clearer path built on doctrine + research + lived practice
-- Performance Triad from FM 7-22: sleep, activity, and nutrition as one readiness system
-- Midlife physiology aha: the same lifting stimulus can buy less muscle (anabolic response changes)
-- Still-training bodies are not “stopped senior” bodies (masters-athlete evidence as a better mirror)
-- Hand-off: prepare before you chase the old self → [[B-Returning-to-active-lifestyle/index|Returning]]
+I built this primer for athletes who remain active after about 55: martial artists, Guard and tactical athletes, first responders, and serious recreational trainees. It is also for coaches who support that crowd. In my view, it is not a sedentary “senior fitness” library and not a weight-loss rabbit hole. You already know sets, intensity, volume, and macros. What I needed, and what I think you need, is evidence for how the body changes after midlife and how to adapt without quitting.
 
-## Primary sources for this section
+## My theory (why this site exists)
 
-- [[G-Sources/S15-fm-7-22-h2f|S15 — FM 7-22 / H2F]]
-- [[G-Sources/S32-endo-anabolic-aging|S32 — Endo & Nourmahnad (2020)]]
+This is my working theory. It is my motivation, not a finding copied from any one paper.
 
-Also useful: [[G-Sources/S33-obryan-bone-strength|S33 — O’Bryan]] · [[G-Sources/S01-mckendry-master-athletes|S01 — McKendry]]
+Sleep is required for capacity, but after 55 I sleep less than I used to. I wake at about 6 a.m. and often do not get to bed until after midnight. Eight hours feels impossible, and I believe that shortfall undercuts training and recovery. Weight training, in my view, needs a real shift: recovery between hard sessions stretches beyond a few days, and how much weight and how many reps I use has to be reevaluated. I also suspect food is processed differently after midlife, with weight gain, water retention, and higher blood pressure showing up more easily than they did in my forties. Underneath all of that, I believe chemical and organ-level changes alter how we have to act if we want to stay fit under real demand.
+
+That package is why I curated this collection and wrote this primer. The next question is honest: which pieces does the current evidence back, and which ones still need work?
+
+## What the current sources back up
+
+Some of this theory already has support in [[G-Sources/index|G. Sources]].
+
+I organize the primer around the Performance Triad in Army [Holistic Health and Fitness (H2F)](https://www.army.mil/article/239475/holistic_health_added_to_army_fitness_doctrine): sleep, activity, and nutrition as one readiness system. That frame comes from [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf)<sup>[[G-Sources/S15-fm-7-22-h2f|S15]]</sup>. Athlete sleep guidance treats short or poor sleep as a performance and recovery risk, with individual targets rather than one magic hour rule<sup>[[G-Sources/S13-walsh-athlete-sleep|S13]]</sup>. Recovery guidance for active older adults puts sleep beside nutrition and training load<sup>[[G-Sources/S21-acsm-recovery-older-adults|S21]]</sup>. So the claim that sleep is required for staying fit is well grounded. My personal schedule (late nights, early mornings, less than eight hours) is my lived evidence, not a universal finding from those papers.
+
+On training, aging can blunt the anabolic response to resistance work and protein compared with younger adults. The same lifting stimulus can buy less muscle. That physiology is spelled out by Endo and Nourmahnad<sup>[[G-Sources/S32-endo-anabolic-aging|S32]]</sup> ([DOI](https://doi.org/10.3389/fphys.2020.00874)). Progressive resistance still works for strength and bone when the plan respects that biology<sup>[[G-Sources/S33-obryan-bone-strength|S33]]</sup> ([DOI](https://doi.org/10.1007/s40279-022-01675-2)). Programming guidance for older adults and dose–response evidence argue that intensity, volume, and frequency should be audited, not copied from a younger self<sup>[[G-Sources/S04-fragala-nsca-older-adults|S04]]</sup> · <sup>[[G-Sources/S02-borde-dose-response|S02]]</sup>. Practitioner coaching on masters volume sensitivity matches my sense that “just add more” often fails<sup>[[G-Sources/S07-sullivan-masters-volume|S07]]</sup>. Still-training research also reminds me that chronically trained bodies are not sedentary “older adult” samples<sup>[[G-Sources/S01-mckendry-master-athletes|S01]]</sup>. So the claim that lifting after midlife needs recalibration of load, reps, and recovery is supported in spirit. A hard rule that recovery is always “more than a few days for everyone” remains my judgment until I can nail it tighter with more evidence.
+
+On fuel, older-athlete nutrition reviews and protein standards support treating intake as capacity support for people who still train, including protecting muscle when cutting<sup>[[G-Sources/S11-desbrow-older-athletes|S11]]</sup> · <sup>[[G-Sources/S28-issn-protein-stand|S28]]</sup> · <sup>[[G-Sources/S12-verreijen-protein-weight-loss|S12]]</sup>. That backs adapting food to training after midlife. It does not, by itself, prove my ideas about water retention or blood pressure.
+
+Comeback risk sits beside the theory too. Unaccustomed hard effort after time off is not only an orthopedic problem<sup>[[G-Sources/S31-willich-exertion-mi-trigger|S31]]</sup>, and clearance is not the same as readiness<sup>[[G-Sources/S27-acsm-preparticipation-prep|S27]]</sup>. That is why my knee story matters: ego mileage on an unearned base is how I got hurt.
+
+## Where I still need further research
+
+I am not done. Some parts of my theory are still open questions.
+
+I need stronger, targeted sources on whether sleep duration typically shortens after 55, and how fragmented or shortened sleep interacts with masters training under occupational demand. Walsh and FM 7-22 establish that sleep matters; they do not prove my “eight hours is impossible after 55” claim as a population rule.
+
+I need clearer evidence on recovery timelines between hard resistance sessions for still-training athletes after midlife, not only volume-sensitivity coaching or general older-adult recovery checklists.
+
+I need better sources on midlife changes in how food is processed that speak directly to weight gain, fluid retention, and blood pressure in active people, not only protein dosing for muscle.
+
+I also need tighter research on the broader “chemical changes in the brain and organs” idea. Endo covers muscle, hormonal, and inflammatory context for anabolic response. That is not the same as a full account of brain and organ chemistry driving every fitness behavior after 55. Those gaps are on my list to confirm or disprove before I treat them as settled science.
+
+## How to use this site
+
+Read this primer straight through, or open one section when that is the problem on your plate. Either way works.
+
+1. **[[A-Introduction/index|Introduction]]** (this page) - Why I built the site, what my theory is, what the sources already support, and what is still open.  
+2. **[[B-Returning-to-active-lifestyle/index|Returning]]** - Come back after time off or injury without destroying the comeback. Clearance is not readiness.  
+3. **[[C-Exercise/index|Exercise]]** - Train hard enough on purpose: progressive strength, dose, concurrent work, lived practice.  
+4. **[[D-Nutrition/index|Nutrition]]** - Fuel for the work, not a second diet hobby.  
+5. **[[E-Sleep-and-recovery/index|Sleep and recovery]]** - Sleep as capacity and volume honesty for masters athletes.  
+6. **[[F-Takeaways/index|Takeaways]]** - My synthesis close: mid-40s habits versus after 55, and what to keep.  
+7. **[[G-Sources/index|Sources]]** - Full bibliography and annotations when you want the receipts.
+
+[[B-Returning-to-active-lifestyle/index|B]] through [[E-Sleep-and-recovery/index|E]] match the triad pieces (return and activity, fuel, sleep/recovery). [[F-Takeaways/index|F]] pulls the argument together. [[G-Sources/index|G]] holds the curated collection behind the claims.
+
+## Your move
+
+Before you click deeper, ask yourself what is working in your current regime and what is not. Is sleep protecting your sessions or erasing them? Are load, reps, and recovery still copied from a younger self? Is food serving the training, or fighting it? Are you chasing the old you after time off?
+
+When you have honest answers, visit the sections that match the cracks. Use them to learn more about the science, and the practical judgment, behind staying fit after 55 without quitting a demanding life. Start with [[B-Returning-to-active-lifestyle/index|Returning]] if you are coming back, [[C-Exercise/index|Exercise]] if the bar and the schedule are the issue, [[D-Nutrition/index|Nutrition]] if fuel is the gap, [[E-Sleep-and-recovery/index|Sleep and recovery]] if nights and volume honesty are the gap, or [[F-Takeaways/index|Takeaways]] if you want the short keep-this list first.
 
 ---
 
 **Up:** [[index|Stay Capable After 55]]
 
-**Down:** [[B-Returning-to-active-lifestyle/index|Returning]] · [[F-Takeaways/index|Takeaways]] · [[G-Sources/index|Sources]]
+**Down:** [[B-Returning-to-active-lifestyle/index|Returning]] · [[C-Exercise/index|Exercise]] · [[F-Takeaways/index|Takeaways]] · [[G-Sources/index|Sources]]

@@ -1,10 +1,10 @@
 # G. Sources
 
-This is the bibliography for the primer. Sections **A–F** are the guide. Use this page when you want citations, annotations, and links to the original materials.
+Annotated sources behind [[A-Introduction/index|Introduction]] through [[F-Takeaways/index|Takeaways]].
 
-**Live count:** 24 annotated sources · Doctrine spine: [[G-Sources/S15-fm-7-22-h2f|FM 7-22 (S15)]]
+Superscripts in the guide (for example <sup>S15</sup>) open the matching note below. Named works also link to the original PDF, DOI, or publisher page when available.
 
-Each note includes a **Supports** tag showing which primer section(s) it serves (A–F).
+**Live count:** 24 · Doctrine spine: [[G-Sources/S15-fm-7-22-h2f|FM 7-22 (S15)]] · **Supports** tags show which sections each source informs.
 
 ---
 
@@ -101,8 +101,6 @@ S01 · S02 · S03 · S04 · S07 · S09 · S10 · S11 · S12 · S13 · S14 · S15
 ## What these sources say together
 
 Most people over fifty-five who still train do not fail because they lack tips. They fail because they keep running a mid-40s playbook on a body that has changed. [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) treats sleep, activity, and nutrition as one readiness system. Peer-reviewed physiology (Endo, O’Bryan) and still-training evidence (McKendry) sit beside that frame. The rest of these sources pick up comeback prep, programming, fuel, and recovery for people under real demand.
-
-The primer in A–F turns that library into a path. For the “so what,” go to [[F-Takeaways/index|Takeaways]].
 
 ---
 

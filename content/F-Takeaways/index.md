@@ -1,32 +1,28 @@
-# F. Takeaways — Mid-40s training vs after 55
+# F. Takeaways - Mid-40s training vs after 55
 
-**Purpose:** Synthesis close. Tie A–E together and refocus the reader on what matters most.
+**My synthesis conclusion (not a single-source finding):** You already know how to train. What changed for me after midlife is the body I train with. In my experience, the mid-40s profile often forgave hard weeks, short recoveries, and ego intensity. After 55, those same habits returned diminishing results, longer injury timelines, and more risk when I chased the old self too soon. That is my motivation for this primer. The sources below support pieces of the picture; they do not, by themselves, prove that every athlete’s plan dies at 55.
 
-This is not a new source shelf and not a sixth content lecture. It is the “so what” door for a full-path finish or a high-level lookup. Depth lives in A–E and in [[G-Sources/index|G. Sources]].
-
-## What A–E mean together
-
-You already know how to train. What changes after midlife is the body you train with. The mid-40s profile often still forgave hard weeks, short recoveries, and ego intensity. After 55, the same habits return diminishing results, longer injury timelines, and more risk when you chase the old self too soon.
-
-A gives the readiness frame and physiology. B warns that clearance is not readiness. C keeps progressive loading and lived practice in the plan. D fuels the work. E protects progress with sleep and volume honesty. Together they argue one claim: adapt the lifestyle to the aging body; do not abandon the demanding life.
+[[A-Introduction/index|Introduction]] gives the readiness frame and physiology. [[B-Returning-to-active-lifestyle/index|Returning]] warns that clearance is not readiness. [[C-Exercise/index|Exercise]] keeps progressive loading and lived practice in the plan. [[D-Nutrition/index|Nutrition]] fuels the work. [[E-Sleep-and-recovery/index|Sleep and recovery]] protects progress with sleep and volume honesty. **My overall claim, from combining those sections:** adapt the lifestyle to the aging body without abandoning a demanding life.
 
 ## Keep this
 
-1. **Recovery windows shrink.** Atrophy and setbacks arrive faster; bounce-back takes longer. Sleep and rest are capacity tools. → [[E-Sleep-and-recovery/index|Sleep and recovery]] · [[G-Sources/S13-walsh-athlete-sleep|Walsh]] · [[G-Sources/S07-sullivan-masters-volume|Sullivan]]
+These are the high-leverage points I want you to keep. Where a line rests on research or doctrine, the citations follow. Where a line is my judgment, I say so.
 
-2. **The same stimulus can buy less muscle.** Aging can blunt the anabolic response to lifting and protein. Progressive loading and fuel still matter, often more, not less. → [[G-Sources/S32-endo-anabolic-aging|Endo]] · [[D-Nutrition/index|Nutrition]]
+1. **Recovery windows shrink.** My synthesis: atrophy and setbacks can arrive faster after midlife, and bounce-back often takes longer. Sleep and rest are capacity tools. → [[E-Sleep-and-recovery/index|Sleep and recovery]] · [Walsh et al.](https://bjsm.bmj.com/content/55/7/356)<sup>[[G-Sources/S13-walsh-athlete-sleep|S13]]</sup> · [Sullivan & Baker](https://startingstrength.com/article/volume-and-the-masters-lifter)<sup>[[G-Sources/S07-sullivan-masters-volume|S07]]</sup>
 
-3. **Bone and strength are still trainable.** Progressive resistance work can protect lower-limb strength and hip/femur bone density. → [[G-Sources/S33-obryan-bone-strength|O’Bryan]] · [[G-Sources/S04-fragala-nsca-older-adults|Fragala]]
+2. **The same stimulus can buy less muscle.** Aging can blunt the anabolic response to lifting and protein. Progressive loading and fuel still matter, often more, not less. → [Endo & Nourmahnad](https://doi.org/10.3389/fphys.2020.00874)<sup>[[G-Sources/S32-endo-anabolic-aging|S32]]</sup> · [[D-Nutrition/index|Nutrition]]
 
-4. **Clearance ≠ readiness; ego volume gets people hurt.** Unaccustomed hard effort after time off raises orthopedic and cardiac risk. → [[B-Returning-to-active-lifestyle/index|Returning]] · [[G-Sources/S31-willich-exertion-mi-trigger|Willich]] · [[G-Sources/S27-acsm-preparticipation-prep|ACSM prep]]
+3. **Bone and strength are still trainable.** Progressive resistance work can protect lower-limb strength and hip/femur bone density. → [O’Bryan et al.](https://doi.org/10.1007/s40279-022-01675-2)<sup>[[G-Sources/S33-obryan-bone-strength|S33]]</sup> · [Fragala / NSCA](https://www.nsca.com/about-us/position-statements/resistance-training-for-older-adults/)<sup>[[G-Sources/S04-fragala-nsca-older-adults|S04]]</sup> · [[C-Exercise/index|Exercise]]
 
-5. **Volume honesty beats “just add more.”** Many masters athletes are volume-sensitive. Concurrent work must be designed. → [[G-Sources/S07-sullivan-masters-volume|Sullivan]] · [[G-Sources/S03-markov-concurrent|Markov]]
+4. **Clearance ≠ readiness; ego volume gets people hurt.** Unaccustomed hard effort after time off raises cardiac risk in the evidence base; orthopedic reinjury is my lived pattern and a common coaching warning. → [[B-Returning-to-active-lifestyle/index|Returning]] · [Willich et al.](https://www.nejm.org/doi/full/10.1056/NEJM199312023292302)<sup>[[G-Sources/S31-willich-exertion-mi-trigger|S31]]</sup> · [ACSM prep](https://www.acsm.org)<sup>[[G-Sources/S27-acsm-preparticipation-prep|S27]]</sup>
 
-6. **Still-training bodies are not “stopped senior” bodies.** → [[G-Sources/S01-mckendry-master-athletes|McKendry]] · [[G-Sources/S09-christensen-solo-training-50|Christensen]]
+5. **Volume honesty beats “just add more.”** Many masters athletes are volume-sensitive. Concurrent work must be designed. → [Sullivan & Baker](https://startingstrength.com/article/volume-and-the-masters-lifter)<sup>[[G-Sources/S07-sullivan-masters-volume|S07]]</sup> · [Markov et al.](https://link.springer.com/article/10.1007/s40279-022-01764-2)<sup>[[G-Sources/S03-markov-concurrent|S03]]</sup>
 
-7. **One readiness system.** Sleep, activity, and nutrition work together. → [[G-Sources/S15-fm-7-22-h2f|FM 7-22]]
+6. **Still-training bodies are not “stopped senior” bodies.** My audience framing, backed by still-training research and lived practice. → [McKendry et al.](https://pubmed.ncbi.nlm.nih.gov/29715523/)<sup>[[G-Sources/S01-mckendry-master-athletes|S01]]</sup> · [Christensen](https://www.amazon.com/Solo-Training-Loren-W-Christensen/dp/1517332400)<sup>[[G-Sources/S09-christensen-solo-training-50|S09]]</sup>
 
-Leave with a few high-leverage changes to the regimen you already own, not a brand-new fitness religion. When you want depth, open the section that owns that takeaway, or browse [[G-Sources/index|G. Sources]].
+7. **One readiness system.** Sleep, activity, and nutrition work together. → [FM 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf)<sup>[[G-Sources/S15-fm-7-22-h2f|S15]]</sup>
+
+My closing advice: leave with a few high-leverage changes to the regimen you already own, not a brand-new fitness religion.
 
 ---
 
