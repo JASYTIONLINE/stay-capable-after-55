@@ -16,7 +16,7 @@ Start with why the old regimen stalls after midlife, what to change first, and h
 2. **[[B-Returning-to-active-lifestyle/index|Returning]]** - Come back without getting hurt  
 3. **[[C-Exercise/index|Exercise]]** - Train hard enough on purpose  
 4. **[[D-Nutrition/index|Nutrition]]** - Fuel for the work  
-5. **[[E-Sleep-and-recovery/index|Sleep and recovery]]** - Sleep and volume honesty  
+5. **[[E-Sleep-and-recovery/index|Sleep and recovery]]** - Protect the work overnight  
 6. **[[F-Takeaways/index|Takeaways]]** - Mid-40s vs after 55: what to keep  
 7. **[[G-Sources/index|Sources]]** - Bibliography and full annotations  
 
