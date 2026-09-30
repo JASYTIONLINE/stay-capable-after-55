@@ -100,7 +100,7 @@ S01 · S02 · S03 · S04 · S07 · S09 · S10 · S11 · S12 · S13 · S14 · S15
 
 ## What these sources say together
 
-Most people over fifty-five who still train do not fail because they lack tips. They fail because they keep running a mid-40s playbook on a body that has changed. [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) treats sleep, activity, and nutrition as one readiness system. Peer-reviewed physiology (Endo, O’Bryan) and still-training evidence (McKendry) sit beside that frame. The rest of these sources pick up comeback prep, programming, fuel, and recovery for people under real demand.
+Most people over fifty-five who still train do not fail because they lack tips. They fail because they keep running a mid-40s playbook on a body that has changed. [Field Manual (FM) 7-22](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN44522-FM_7-22-002-WEB-7.pdf) treats sleep, activity, and nutrition as one readiness system. Peer-reviewed physiology ([Endo](https://connects.catalyst.harvard.edu/Profiles/display/Person/165349), [O’Bryan](https://researchers.vu.edu.au/3351-steven-o'bryan)) and still-training evidence ([McKendry](https://news.ubc.ca/expert/dr-james-mckendry/)) sit beside that frame. The rest of these sources pick up comeback prep, programming, fuel, and recovery for people under real demand.
 
 ---
 
